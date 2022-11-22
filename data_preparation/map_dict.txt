@@ -1,0 +1,6997 @@
+em	305865	em
+anh	249633	anh
+yêu	140001	yêu
+người	113410	người
+tình	104604	tình
+không	101991	không
+ta	84100	ta
+đi	82776	đi
+có	81368	có
+một	80839	một
+đã	80761	đã
+ngày	78082	ngày
+cho	76385	cho
+nhau	74780	nhau
+về	70363	về
+là	69839	là
+trong	69694	trong
+xa	67431	xa
+còn	65972	còn
+như	63508	như
+mình	61956	mình
+bao	59411	bao
+thương	58778	thương
+sao	58194	sao
+nhớ	56911	nhớ
+đời	56072	đời
+rồi	55588	rồi
+tôi	55077	tôi
+con	54930	con
+những	53397	những
+ai	53270	ai
+bên	53147	bên
+khi	51623	khi
+để	50103	để
+biết	48745	biết
+lòng	48541	lòng
+đêm	48418	đêm
+sẽ	48242	sẽ
+vẫn	46716	vẫn
+giờ	45052	giờ
+đến	43857	đến
+vì	43351	vì
+và	42713	và
+tim	42273	tim
+ơi	42247	ơi
+đâu	41206	đâu
+đây	41076	đây
+mãi	39717	mãi
+lại	39695	lại
+mà	39374	mà
+chỉ	38724	chỉ
+qua	38531	qua
+buồn	36895	buồn
+đôi	36646	đôi
+tay	35513	tay
+đau	35028	đau
+vui	34657	vui
+mơ	34646	mơ
+thôi	34319	thôi
+quên	33878	quên
+nào	33373	nào
+nói	33013	nói
+xuân	32347	xuân
+xưa	31979	xưa
+làm	31354	làm
+nơi	31327	nơi
+chẳng	31323	chẳng
+mưa	30218	mưa
+mong	30137	mong
+từng	29757	từng
+nay	28926	nay
+đường	28896	đường
+với	28858	với
+lời	28116	lời
+được	27436	được
+này	27307	này
+trời	26386	trời
+mắt	26006	mắt
+bước	25910	bước
+cùng	25580	cùng
+trên	25564	trên
+đừng	25121	đừng
+thật	24985	thật
+dù	24830	dù
+hãy	24803	hãy
+cũng	24488	cũng
+nhưng	24148	nhưng
+nhiều	23611	nhiều
+hoa	23530	hoa
+xin	23311	xin
+thế	23282	thế
+thì	23153	thì
+nghe	23075	nghe
+phải	23025	phải
+mẹ	22567	mẹ
+năm	22539	năm
+thấy	22374	thấy
+chờ	22275	chờ
+ra	22000	ra
+gian	21719	gian
+cuộc	21611	cuộc
+tiếng	21402	tiếng
+gió	21050	gió
+hay	20781	hay
+mai	20554	mai
+từ	20506	từ
+mùa	20390	mùa
+gì	20182	gì
+tìm	20117	tìm
+theo	20111	theo
+rơi	19701	rơi
+luôn	19208	luôn
+đó	19067	đó
+lần	19001	lần
+cười	18941	cười
+nước	18347	nước
+cứ	18254	cứ
+nỗi	18143	nỗi
+ước	18099	ước
+muốn	18082	muốn
+lúc	17846	lúc
+mang	17784	mang
+lên	17645	lên
+của	17444	của
+trái	17185	trái
+hết	17165	hết
+nhìn	17141	nhìn
+đầu	16917	đầu
+cô	16578	cô
+đang	16329	đang
+thêm	16269	thêm
+vào	15949	vào
+sau	15903	sau
+ở	15834	ở
+hai	15742	hai
+câu	15725	câu
+chiều	15636	chiều
+giấc	15294	giấc
+mới	15184	mới
+quá	14921	quá
+nên	14799	nên
+sống	14769	sống
+tháng	14581	tháng
+nắng	14566	nắng
+trôi	14457	trôi
+thể	14402	thể
+bóng	14399	bóng
+say	14325	say
+phúc	14165	phúc
+hôm	14142	hôm
+bay	14023	bay
+rằng	13916	rằng
+môi	13905	môi
+hạnh	13835	hạnh
+hát	13657	hát
+chia	13629	chia
+chân	13551	chân
+chưa	13469	chưa
+tan	13329	tan
+trao	13274	trao
+tâm	13218	tâm
+duyên	13038	duyên
+niềm	13018	niềm
+đơn	12983	đơn
+thời	12859	thời
+khóc	12677	khóc
+ấy	12517	ấy
+dài	12354	dài
+hỡi	12332	hỡi
+chi	12122	chi
+cần	12078	cần
+nếu	12000	nếu
+cả	11982	cả
+phút	11964	phút
+cơn	11906	cơn
+ấm	11767	ấm
+nhiêu	11765	nhiêu
+ca	11725	ca
+quay	11725	quay
+cố	11685	cố
+lâu	11682	lâu
+mây	11609	mây
+lá	11454	lá
+quê	11402	quê
+cách	11283	cách
+tin	11269	tin
+nhà	11209	nhà
+hương	11134	hương
+thơ	11036	thơ
+nụ	10965	nụ
+ngàn	10918	ngàn
+xanh	10836	xanh
+nữa	10830	nữa
+phố	10804	phố
+đẹp	10700	đẹp
+chuyện	10617	chuyện
+vắng	10469	vắng
+trăng	10460	trăng
+sầu	10444	sầu
+đưa	10412	đưa
+thay	10362	thay
+mất	10349	mất
+đành	10333	đành
+thành	10324	thành
+gặp	10279	gặp
+lạnh	10212	lạnh
+mộng	10203	mộng
+hơn	10161	hơn
+kia	10081	ki a
+sông	10018	sông
+niệm	10017	niệm
+ánh	9973	ánh
+yên	9973	yên
+lối	9867	lối
+màu	9852	màu
+phai	9782	phai
+thầm	9751	thầm
+mỗi	9739	mỗi
+vô	9688	vô
+muôn	9679	muôn
+vàng	9562	vàng
+bình	9558	bình
+tết	9543	tết
+rất	9521	rất
+đợi	9492	đợi
+ôm	9429	ôm
+cay	9263	cay
+vội	8996	vội
+đông	8963	đông
+điều	8912	điều
+sâu	8849	sâu
+chung	8735	chung
+dòng	8663	dòng
+đổi	8640	đổi
+sang	8584	sang
+đầy	8466	đầy
+rời	8444	rời
+đắng	8422	đắng
+chúng	8342	chúng
+riêng	8251	riêng
+lặng	8172	lặng
+giây	8154	giây
+trở	8142	trở
+ngồi	8081	ngồi
+giữa	7977	giữa
+hồng	7949	hồng
+sáng	7919	sáng
+quen	7906	quen
+kỷ	7770	kỷ
+giữ	7758	giữ
+cuối	7757	cuối
+la	7686	la
+dối	7662	dối
+hồn	7578	hồn
+đón	7573	đón
+nồng	7541	nồng
+you	7516	iu
+thân	7511	thân
+vậy	7470	vậy
+trọn	7412	trọn
+trắng	7346	trắng
+hôn	7340	hôn
+ôi	7338	ôi
+lắm	7332	lắm
+bỏ	7303	bỏ
+cao	7261	cao
+dẫu	7246	dẫu
+cánh	7207	cánh
+bờ	7152	bờ
+giọt	7137	giọt
+vai	7120	vai
+dấu	7117	dấu
+cầu	7098	cầu
+tiếc	7078	tiếc
+nghĩ	7033	nghĩ
+chúc	7021	chúc
+bây	6968	bây
+cha	6927	cha
+áo	6875	áo
+hẹn	6809	hẹn
+lỡ	6795	lỡ
+hình	6783	hình
+thu	6780	thu
+tha	6758	tha
+giá	6754	giá
+hoài	6692	hoài
+phương	6685	phương
+lẽ	6632	lẽ
+lấy	6620	lấy
+lo	6617	lo
+nhận	6610	nhận
+êm	6601	êm
+nàng	6596	nàng
+xót	6584	xót
+tại	6545	tại
+đàn	6512	đàn
+i	6508	ai
+gần	6500	gần
+bạn	6492	bạn
+lệ	6454	lệ
+tươi	6407	tươi
+ba	6402	ba
+mấy	6329	mấy
+hứa	6302	hứa
+buông	6279	buông
+nhé	6243	nhé
+ngọt	6130	ngọt
+ly	6107	ly
+cảm	6103	cảm
+kiếp	6097	kiếp
+vòng	6061	vòng
+ngào	6053	ngào
+chim	6011	chim
+hiểu	5997	hiểu
+nhỏ	5985	nhỏ
+vỡ	5965	vỡ
+tàn	5958	tàn
+mê	5942	mê
+trông	5918	trông
+vương	5889	vương
+bằng	5880	bằng
+đắm	5874	đắm
+trước	5870	trước
+chợt	5807	chợt
+ân	5801	ân
+tên	5784	tên
+thắm	5710	thắm
+mau	5667	mau
+sương	5641	sương
+chơi	5607	chơi
+tới	5556	tới
+tư	5554	tư
+vơi	5486	vơi
+khó	5461	khó
+nhân	5436	nhân
+đứng	5423	đứng
+gọi	5416	gọi
+nhẹ	5377	nhẹ
+trách	5372	trách
+gái	5335	gái
+ngoài	5213	ngoài
+tóc	5200	tóc
+càng	5188	càng
+chăng	5184	chăng
+hỏi	5105	hỏi
+mọi	5101	mọi
+tuổi	5099	tuổi
+tất	5027	tất
+vời	5002	vời
+suốt	4989	suốt
+ru	4967	ru
+âm	4961	âm
+chốn	4923	chốn
+xinh	4913	xinh
+ngỡ	4900	ngỡ
+vọng	4897	vọng
+bến	4895	bến
+vừa	4832	vừa
+hò	4822	hò
+cây	4791	cây
+mi	4791	mi
+bàn	4770	bàn
+nguyện	4761	nguyện
+thứ	4751	thứ
+vang	4728	vang
+sóng	4727	sóng
+ngây	4701	ngây
+chắc	4679	chắc
+lớn	4653	lớn
+ngủ	4648	ngủ
+chiếc	4631	chiếc
+biển	4597	biển
+thề	4597	thề
+quanh	4590	quanh
+thiết	4584	thiết
+đất	4580	đất
+ngờ	4566	ngờ
+thức	4565	thức
+mặt	4563	mặt
+mái	4528	mái
+khắp	4526	khắp
+bởi	4503	bởi
+xóa	4479	xóa
+sợ	4403	sợ
+tương	4390	tương
+me	4383	me
+khiến	4378	khiến
+u	4372	u
+biệt	4304	biệt
+tối	4214	tối
+đứa	4214	đứa
+nở	4214	nở
+ngang	4210	ngang
+lỗi	4173	lỗi
+sai	4153	sai
+dâng	4123	dâng
+vơ	4108	vơ
+bé	4073	bé
+dần	4047	dần
+cạnh	4041	cạnh
+lạc	3988	lạc
+do	3969	do
+ban	3962	ban
+tự	3940	tự
+khúc	3930	khúc
+xem	3920	xem
+chút	3914	chút
+nắm	3903	nắm
+khổ	3899	khổ
+mối	3884	mối
+love	3873	lớp
+mừng	3854	mừng
+bài	3842	bài
+nhạt	3842	nhạt
+tiên	3802	tiên
+đồng	3800	đồng
+sớm	3790	sớm
+dáng	3778	dáng
+lắng	3763	lắng
+khác	3758	khác
+chính	3755	chính
+mờ	3673	mờ
+tựa	3673	tựa
+nhịp	3671	nhịp
+trả	3654	trả
+ướt	3634	ướt
+đớn	3617	đớn
+trường	3613	trường
+cũ	3603	cũ
+lai	3597	lai
+thường	3570	thường
+dành	3563	dành
+an	3558	an
+ức	3550	ức
+suy	3519	suy
+oh	3517	ô
+hờn	3513	hờn
+bỗng	3492	bỗng
+giận	3491	giận
+nhất	3480	nhất
+phiền	3457	phiền
+hàng	3453	hàng
+hiền	3443	hiền
+miền	3440	miền
+níu	3431	níu
+chết	3425	chết
+xôi	3412	xôi
+dưới	3399	dưới
+thang	3388	thang
+lầm	3383	lầm
+sắc	3365	sắc
+gửi	3350	gửi
+mặc	3344	mặc
+dịu	3324	dịu
+sự	3314	sự
+hòa	3297	hòa
+khắc	3278	khắc
+nỡ	3271	nỡ
+nghèo	3271	nghèo
+ông	3270	ông
+nao	3270	nao
+nhanh	3266	nhanh
+đem	3236	đem
+xuống	3235	xuống
+thiên	3233	thiên
+khuya	3213	khuya
+sinh	3195	sinh
+hoang	3192	hoang
+tràn	3179	tràn
+chồng	3173	chồng
+nhạc	3164	nhạc
+thoáng	3153	thoáng
+hiu	3133	hiu
+lạ	3090	lạ
+a	3072	a
+cớ	3050	cớ
+lẻ	3050	lẻ
+tiền	3039	tiền
+nghĩa	3037	nghĩa
+trai	3032	trai
+quan	3031	quan
+chôn	3029	chôn
+chào	3023	chào
+bạc	3014	bạc
+vấn	3010	vấn
+nhòa	2995	nhòa
+ghi	2992	ghi
+làn	2992	làn
+thơm	2989	thơm
+xe	2980	xe
+kết	2980	kết
+cầm	2975	cầm
+giấu	2972	giấu
+tuyệt	2971	tuyệt
+ngóng	2943	ngóng
+khói	2939	khói
+nam	2906	nam
+non	2905	non
+ái	2891	ái
+cuốn	2890	cuốn
+nát	2890	nát
+trần	2890	trần
+hơi	2882	hơi
+đèn	2880	đèn
+muộn	2875	muộn
+phôi	2870	phôi
+ơn	2833	ơn
+xao	2829	xao
+nuối	2828	nuối
+my	2824	mai
+thanh	2819	thanh
+gia	2817	gia
+lùng	2811	lùng
+lưng	2806	lưng
+ngại	2794	ngại
+ngập	2786	ngập
+xây	2783	xây
+trăm	2780	trăm
+thăm	2778	thăm
+làng	2772	làng
+áp	2766	áp
+bơ	2743	bơ
+viết	2740	viết
+bão	2735	bão
+công	2735	công
+rừng	2727	rừng
+che	2727	che
+loi	2712	loi
+thà	2709	thà
+ký	2697	ký
+đậm	2678	đậm
+gắng	2659	gắng
+kề	2652	kề
+chàng	2650	chàng
+nhung	2650	nhung
+to	2650	to
+thuyền	2645	thuyền
+đánh	2644	đánh
+mòn	2641	mòn
+dại	2628	dại
+phong	2605	phong
+băng	2601	băng
+vết	2600	vết
+1	2598	một
+côi	2596	côi
+lang	2581	lang
+in	2580	in
+phía	2571	phía
+lý	2566	lý
+lìa	2556	lìa
+ngơ	2554	ngơ
+ngừng	2547	ngừng
+chớ	2545	chớ
+hoàng	2539	hoàng
+buốt	2527	buốt
+soi	2525	soi
+chấp	2518	chấp
+trót	2516	trót
+núi	2491	núi
+chìm	2486	chìm
+baby	2471	bây bi
+xuôi	2459	xuôi
+cất	2452	cất
+đùa	2450	đùa
+manh	2444	manh
+giống	2441	giống
+lúa	2431	lúa
+tơ	2429	tơ
+đềm	2428	đềm
+đình	2417	đình
+già	2412	già
+khô	2411	khô
+khơi	2408	khơi
+lành	2407	lành
+cái	2402	cái
+giới	2382	giới
+nằm	2379	nằm
+mến	2375	mến
+nó	2366	nó
+ngất	2366	ngất
+kéo	2362	kéo
+vu	2352	vu
+nhàng	2350	nhàng
+minh	2347	minh
+dang	2339	dang
+nhắc	2319	nhắc
+thiếu	2313	thiếu
+cành	2312	cành
+dàng	2312	dàng
+linh	2306	linh
+may	2304	may
+thuở	2296	thuở
+chặt	2295	chặt
+gầy	2291	gầy
+đá	2290	đá
+luyến	2289	luyến
+khát	2278	khát
+no	2275	no
+nghẹn	2273	nghẹn
+hè	2271	hè
+than	2266	than
+mênh	2257	mênh
+à	2257	à
+dân	2255	dân
+tận	2252	tận
+giông	2246	giông
+rượu	2243	rượu
+hờ	2237	hờ
+tranh	2235	tranh
+tàu	2232	tàu
+nặng	2230	nặng
+tưởng	2227	tưởng
+thích	2216	thích
+màn	2214	màn
+im	2208	im
+giàu	2207	giàu
+hề	2206	hề
+dĩ	2190	dĩ
+vùi	2188	vùi
+khẽ	2181	khẽ
+trẻ	2181	trẻ
+lưu	2150	lưu
+ý	2150	ý
+long	2147	long
+màng	2145	màng
+bông	2133	bông
+mặn	2132	mặn
+đổ	2130	đổ
+lấp	2127	lấp
+đò	2122	đò
+tím	2120	tím
+dám	2107	dám
+kín	2104	kín
+số	2102	số
+ngã	2100	ngã
+thư	2092	thư
+bà	2092	bà
+kỉ	2084	kỉ
+mềm	2076	mềm
+âu	2067	âu
+bắt	2050	bắt
+bầu	2050	bầu
+úa	2047	úa
+ngăn	2045	ngăn
+vượt	2034	vượt
+khờ	2027	khờ
+dễ	2024	dễ
+lãng	2023	lãng
+thấu	2018	thấu
+hồi	2017	hồi
+the	2014	the
+tốt	2011	tốt
+phận	2008	phận
+đương	1999	đương
+ngược	1997	ngược
+hy	1991	hy
+khuất	1985	khuất
+nhói	1973	nhói
+vãng	1972	vãng
+dở	1971	dở
+ơ	1966	ơ
+tuôn	1965	tuôn
+rộn	1962	rộn
+giác	1952	giác
+hững	1947	hững
+sân	1939	sân
+cưới	1913	cưới
+ô	1908	ô
+dừng	1907	dừng
+cung	1898	cung
+héo	1898	héo
+học	1894	học
+ngắm	1889	ngắm
+dương	1888	dương
+tính	1884	tính
+vườn	1884	vườn
+hạt	1882	hạt
+cõi	1879	cõi
+kể	1876	kể
+đong	1875	đong
+tiễn	1874	tiễn
+lừa	1872	lừa
+chan	1867	chan
+thở	1867	thở
+vài	1864	vài
+việt	1864	việt
+mông	1862	mông
+ăn	1860	ăn
+khôn	1853	khôn
+dâu	1852	dâu
+khao	1851	khao
+nghiêng	1840	nghiêng
+dường	1839	dường
+kìa	1838	kìa
+chọn	1833	chọn
+tròn	1829	tròn
+trang	1827	trang
+ưu	1824	ưu
+cháy	1812	cháy
+thần	1810	thần
+gieo	1804	gieo
+tung	1802	tung
+khăn	1801	khăn
+rối	1801	rối
+đam	1800	đam
+bấy	1798	bấy
+dìu	1798	dìu
+mỏi	1797	mỏi
+chạy	1796	chạy
+pháo	1780	pháo
+khứ	1777	khứ
+vợ	1774	vợ
+nhiên	1764	nhiên
+lung	1760	lung
+kẻ	1751	kẻ
+ngời	1746	ngời
+đếm	1741	đếm
+tre	1718	tre
+bất	1716	bất
+bướm	1706	bướm
+thâu	1703	thâu
+hồ	1699	hồ
+thờ	1697	thờ
+tố	1697	tố
+cà	1696	cà
+cát	1690	cát
+chứa	1681	chứa
+rộng	1677	rộng
+má	1676	má
+tặng	1667	tặng
+lộc	1666	lộc
+chiến	1665	chiến
+cạn	1660	cạn
+nối	1656	nối
+sa	1641	sa
+kiếm	1640	kiếm
+đào	1640	đào
+đấy	1634	đấy
+hiên	1634	hiên
+ngôi	1633	ngôi
+nuôi	1624	nuôi
+đà	1624	đà
+mười	1623	mười
+loài	1622	loài
+ngay	1615	ngay
+hướng	1605	hướng
+vây	1605	vây
+hắt	1597	hắt
+đoạn	1593	đoạn
+nàn	1591	nàn
+nợ	1587	nợ
+na	1585	na
+tiếp	1581	tiếp
+and	1576	en
+giăng	1569	giăng
+thuộc	1568	thuộc
+đen	1560	đen
+son	1557	son
+tội	1549	tội
+biến	1549	biến
+điệu	1547	điệu
+ngát	1544	ngát
+phụ	1542	phụ
+thừa	1537	thừa
+vầng	1533	vầng
+đuối	1533	đuối
+bận	1531	bận
+quạnh	1523	quạnh
+chữ	1520	chữ
+nẻo	1519	nẻo
+pha	1509	pha
+trò	1509	trò
+mệt	1504	mệt
+tia	1503	tia
+nguyên	1502	nguyên
+chở	1499	chở
+trống	1498	trống
+canh	1495	canh
+gối	1495	gối
+cỏ	1493	cỏ
+nâng	1492	nâng
+xác	1476	xác
+tang	1473	tang
+hành	1462	hành
+mở	1460	mở
+họ	1458	họ
+mùi	1453	mùi
+trùng	1441	trùng
+vạn	1441	vạn
+yếu	1441	yếu
+ngọn	1438	ngọn
+chúa	1437	chúa
+sánh	1435	sánh
+bâng	1431	bâng
+khoảng	1430	khoảng
+bè	1425	bè
+nguồn	1419	nguồn
+trí	1418	trí
+khuâng	1412	khuâng
+lánh	1410	lánh
+chất	1405	chất
+hận	1402	hận
+e	1401	e
+cửa	1395	cửa
+chua	1395	chua
+tao	1393	tao
+rưng	1393	rưng
+tây	1386	tây
+hối	1386	hối
+thềm	1381	thềm
+đều	1380	đều
+kêu	1378	kêu
+nửa	1378	nửa
+hoen	1375	hoen
+danh	1374	danh
+bụi	1371	bụi
+thầy	1369	thầy
+khép	1367	khép
+đúng	1362	đúng
+men	1359	men
+hư	1357	hư
+nổi	1354	nổi
+uống	1351	uống
+du	1349	du
+man	1339	man
+mua	1337	mua
+mù	1333	mù
+lứa	1332	lứa
+căn	1331	căn
+tuyết	1329	tuyết
+mỉm	1327	mỉm
+cá	1323	cá
+bánh	1323	bánh
+vẹn	1322	vẹn
+hóa	1313	hóa
+giã	1312	giã
+mát	1311	mát
+ngùi	1311	ngùi
+giao	1311	giao
+đỏ	1309	đỏ
+miên	1305	miên
+lao	1302	lao
+vụt	1288	vụt
+lửa	1281	lửa
+rã	1280	rã
+cau	1280	cau
+ấp	1273	ấp
+nguôi	1272	nguôi
+lơi	1268	lơi
+xứ	1266	xứ
+tài	1262	tài
+vùng	1262	vùng
+đồi	1260	đồi
+so	1258	so
+câm	1257	câm
+xuyến	1255	xuyến
+khoe	1251	khoe
+tô	1249	tô
+đáng	1249	đáng
+bản	1248	bản
+gót	1245	gót
+babe	1243	ba bê
+giang	1239	giang
+lan	1238	lan
+góc	1237	góc
+ràng	1235	ràng
+phù	1229	phù
+xoá	1227	xóa
+đủ	1224	đủ
+phòng	1223	phòng
+nghìn	1217	nghìn
+gánh	1217	gánh
+kí	1217	kí
+viên	1216	viên
+da	1213	da
+trào	1210	trào
+chịu	1209	chịu
+mời	1208	mời
+rớt	1202	rớt
+tầm	1197	tầm
+tấm	1193	tấm
+ngân	1192	ngân
+thưa	1187	thưa
+bảo	1187	bảo
+hằng	1182	hằng
+mày	1173	mày
+suối	1173	suối
+lê	1173	lê
+đắp	1172	đắp
+điên	1169	điên
+ngậm	1166	ngậm
+hà	1163	hà
+nhắn	1162	nhắn
+mồ	1160	mồ
+vầy	1154	vầy
+sức	1153	sức
+rung	1151	rung
+bốn	1148	bốn
+dậy	1147	dậy
+song	1138	song
+thèm	1138	thèm
+vững	1135	vững
+cờ	1134	cờ
+your	1128	jo
+ngẩn	1127	ngẩn
+én	1124	én
+đại	1122	đại
+khóe	1121	khóe
+thoát	1121	thoát
+sài	1120	sài
+ngọc	1116	ngọc
+buổi	1116	buổi
+cơ	1114	cơ
+hiện	1114	hiện
+run	1114	run
+rạng	1113	rạng
+thấm	1113	thấm
+bàng	1107	bàng
+ngoan	1106	ngoan
+ngõ	1105	ngõ
+bồi	1104	bồi
+tà	1101	tà
+ghen	1100	ghen
+bền	1099	bền
+tỉnh	1098	tỉnh
+dạt	1090	dạt
+chén	1088	chén
+gòn	1086	gòn
+thao	1081	thao
+phiêu	1080	phiêu
+nhờ	1080	nhờ
+xua	1079	xua
+giúp	1078	giúp
+chị	1076	chị
+sum	1075	sum
+phượng	1073	phượng
+nhắm	1071	nhắm
+gác	1071	gác
+chuyến	1070	chuyến
+cơm	1069	cơm
+thúc	1067	thúc
+ghé	1061	ghé
+know	1059	nâu
+xé	1051	xé
+lau	1049	lau
+liêu	1039	liêu
+reo	1038	reo
+xúc	1033	xúc
+tạm	1025	tạm
+mươi	1024	mươi
+lướt	1022	lướt
+hợp	1021	hợp
+si	1021	si
+dứt	1019	dứt
+xóm	1019	xóm
+đập	1019	đập
+bầy	1018	bầy
+tắt	1015	tắt
+hạ	1014	hạ
+đa	1013	đa
+se	1012	se
+rụng	1009	rụng
+trưa	1009	trưa
+thằng	1008	thằng
+mạnh	1004	mạnh
+quý	1003	quý
+tổn	1000	tổn
+vỗ	997	vỗ
+trầm	994	trầm
+toàn	993	toàn
+lanh	993	lanh
+hoan	991	hoan
+chuông	991	chuông
+động	988	động
+tuy	987	tuy
+đê	986	đê
+tập	983	tập
+tai	983	tai
+lụa	980	lụa
+giọng	977	giọng
+quán	976	quán
+quân	972	quân
+chín	969	chín
+cuồng	965	cuồng
+máu	964	máu
+đóa	964	đóa
+tênh	962	tênh
+it	962	ít
+rực	961	rực
+hội	961	hội
+khung	955	khung
+đối	950	đối
+nhẫn	950	nhẫn
+ngu	947	ngu
+tái	942	tái
+phật	940	phật
+định	935	định
+nhật	935	nhật
+xô	933	xô
+tê	932	tê
+hao	931	hao
+bối	931	bối
+thủy	929	thủy
+chứ	927	chứ
+nét	927	nét
+chiếu	927	chiếu
+đoàn	927	đoàn
+khỏi	926	khỏi
+be	925	be
+tinh	923	tinh
+hái	921	hái
+chạm	919	chạm
+chú	919	chú
+wanna	918	goan na
+nội	913	nội
+đặt	910	đặt
+phường	902	phường
+liệu	902	liệu
+bừng	901	bừng
+thênh	899	thênh
+don't	899	don tê
+dung	898	dung
+trọng	892	trọng
+sơ	890	sơ
+áng	888	áng
+ruộng	888	ruộng
+ngà	886	ngà
+xôn	884	xôn
+hót	883	hót
+lợi	883	lợi
+xăm	881	xăm
+nề	880	nề
+girl	878	gơn
+trầu	875	trầu
+đốt	872	đốt
+sơn	870	sơn
+phát	870	phát
+thắp	869	thắp
+sưởi	868	sưởi
+vã	868	vã
+não	867	não
+thi	867	thi
+nức	866	nức
+tạ	859	tạ
+trải	859	trải
+just	857	jút sờ
+mịt	856	mịt
+chăm	854	chăm
+oán	853	oán
+giấy	852	giấy
+đám	851	đám
+rong	850	rong
+dây	849	dây
+gai	848	gai
+phàng	848	phàng
+đan	847	đan
+hé	845	hé
+dư	840	dư
+khoảnh	840	khoảnh
+trung	835	trung
+dừa	833	dừa
+sáo	832	sáo
+thông	832	thông
+lầu	830	lầu
+chốc	828	chốc
+sắp	827	sắp
+i'm	822	ai mờ
+xong	821	xong
+hào	819	hào
+khách	818	khách
+ấu	814	ấu
+ao	814	ao
+thôn	814	thôn
+cài	812	cài
+sẻ	812	sẻ
+gấm	812	gấm
+tơi	810	tơi
+chậm	810	chậm
+tăng	810	tăng
+chông	808	chông
+bể	800	bể
+ga	799	ga
+kính	799	kính
+phủ	799	phủ
+dệt	798	dệt
+vị	798	vị
+bếp	795	bếp
+đo	795	đo
+2	790	hai
+việc	790	việc
+can	790	can
+bị	789	bị
+nữ	787	nữ
+nghi	782	nghi
+gục	779	gục
+dào	779	dào
+go	777	go
+bật	775	bật
+sĩ	775	sĩ
+ghét	775	ghét
+we	770	guy
+lăn	769	lăn
+chảy	765	chảy
+xung	762	xung
+thuốc	762	thuốc
+cháu	761	cháu
+bi	757	bi
+sướng	757	sướng
+ngùng	756	ngùng
+gương	756	gương
+cậu	752	cậu
+chợ	751	chợ
+hoà	750	hòa
+chê	750	chê
+độ	750	độ
+dắt	749	dắt
+ngàng	748	ngàng
+phân	747	phân
+vẽ	747	vẽ
+dưng	745	dưng
+dặn	745	dặn
+gợi	743	gợi
+trốn	740	trốn
+ha	740	ha
+rỡ	739	rỡ
+rét	738	rét
+chiêm	737	chiêm
+thê	737	thê
+giả	732	giả
+tỏ	731	tỏ
+all	729	ôn
+thù	727	thù
+dỗi	723	dỗi
+lũ	720	lũ
+gởi	719	gởi
+đọng	717	đọng
+phơi	716	phơi
+nhọc	715	nhọc
+đáy	713	đáy
+gạt	712	gạt
+lay	710	lay
+kinh	709	kinh
+hi	708	hi
+miệt	707	miệt
+tỏa	703	tỏa
+cám	702	cám
+cò	699	cò
+for	699	pho
+tui	698	tui
+chứng	694	chứng
+dạy	693	dạy
+ừ	692	ừ
+bèo	691	bèo
+vờ	691	vờ
+sớt	690	sớt
+nan	690	nan
+tồn	688	tồn
+ko	687	cô
+bán	685	bán
+vinh	684	vinh
+trà	679	trà
+toan	678	toan
+gỡ	677	gỡ
+vẫy	673	vẫy
+nín	670	nín
+cảnh	669	cảnh
+nương	667	nương
+sát	667	sát
+chừng	665	chừng
+giáo	664	giáo
+dõi	663	dõi
+hân	662	hân
+mắn	661	mắn
+coi	661	coi
+nhặt	659	nhặt
+yeah	658	i ê
+nhoà	656	nhòa
+nhoi	654	nhoi
+quà	653	quà
+bớt	653	bớt
+kệ	652	kệ
+bác	650	bác
+đô	650	đô
+dầu	650	dầu
+thinh	649	thinh
+gom	648	gom
+kịp	648	kịp
+bồng	648	bồng
+xoay	648	xoay
+chưng	647	chưng
+bời	646	bời
+dẫn	645	dẫn
+lễ	644	lễ
+lênh	643	lênh
+dạo	643	dạo
+lơ	639	lơ
+đênh	637	đênh
+góp	636	góp
+giật	636	giật
+ngần	635	ngần
+phũ	635	phũ
+like	634	lai
+chán	634	chán
+ngón	633	ngón
+ngắn	631	ngắn
+chắp	628	chắp
+các	626	các
+vật	625	vật
+ve	624	ve
+with	623	guýt
+bức	622	bức
+ngon	621	ngon
+want	620	goăn
+tăm	619	tăm
+now	618	nao
+bắc	617	bắc
+vút	617	vút
+lớp	617	lớp
+thăng	616	thăng
+on	616	on
+vốn	610	vốn
+phới	610	phới
+hằn	610	hằn
+báo	609	báo
+thẫn	607	thẫn
+gào	606	gào
+đằng	603	đằng
+diều	601	diều
+quang	600	quang
+huy	600	huy
+nuốt	599	nuốt
+rẽ	597	rẽ
+phê	596	phê
+thắng	595	thắng
+nén	595	nén
+giết	594	giết
+come	593	căm
+chăn	591	chăn
+ngỏ	591	ngỏ
+lắc	590	lắc
+bẽ	590	bẽ
+nga	589	nga
+sóc	586	sóc
+mài	585	mài
+phấn	585	phấn
+nhằn	585	nhằn
+lương	584	lương
+đua	584	đua
+kỳ	582	kỳ
+nông	582	nông
+lam	581	lam
+let	581	lét
+thực	579	thực
+mẽ	579	mẽ
+nha	578	nha
+gói	578	gói
+phép	578	phép
+triền	577	triền
+quả	577	quả
+nà	576	nà
+yếm	576	yếm
+thất	576	thất
+cứu	575	cứu
+ê	575	ê
+nhoài	574	nhoài
+thua	574	thua
+is	574	i ét
+thánh	573	thánh
+mỏng	572	mỏng
+one	572	oăn
+quy	571	quy
+cổ	571	cổ
+noel	570	nô en
+bố	568	bố
+ngoại	568	ngoại
+tủi	564	tủi
+thói	564	thói
+rồng	562	rồng
+í	561	í
+hùng	560	hùng
+thét	559	thét
+thả	558	thả
+mô	558	mô
+vươn	558	vươn
+cúi	556	cúi
+dãi	554	dãi
+khoan	552	khoan
+rau	551	rau
+chùa	551	chùa
+chí	549	chí
+mộ	546	mộ
+duy	546	duy
+quyết	543	quyết
+đắn	543	đắn
+are	542	a
+ngô	541	ngô
+lều	541	lều
+tử	540	tử
+đẫm	539	đẫm
+gượng	538	gượng
+mệnh	537	mệnh
+dao	537	dao
+châu	535	châu
+uh	535	ừ
+hàn	534	hàn
+dạ	533	dạ
+vợi	533	vợi
+dựng	532	dựng
+chinh	531	chinh
+vàn	527	vàn
+miệng	527	miệng
+giai	527	giai
+rót	526	rót
+phần	526	phần
+mảnh	524	mảnh
+điểm	523	điểm
+chắn	519	chắn
+thái	518	thái
+chối	517	chối
+thiệt	517	thiệt
+vĩnh	517	vĩnh
+thoảng	516	thoảng
+nghiệp	516	nghiệp
+that	513	dát
+tránh	511	tránh
+tổ	509	tổ
+bon	509	bon
+niu	508	niu
+up	508	úp
+ít	508	ít
+đạo	506	đạo
+thiệp	503	thiệp
+thấp	503	thấp
+biên	501	biên
+giản	500	giản
+quặn	500	quặn
+thẹn	499	thẹn
+bồ	497	bồ
+thâm	494	thâm
+quần	494	quần
+thùng	494	thùng
+giáng	493	giáng
+giải	492	giải
+rào	492	rào
+sen	492	sen
+bề	492	bề
+trinh	492	trinh
+tiêu	490	tiêu
+nhủ	490	nhủ
+huyền	490	huyền
+tiến	489	tiến
+trá	489	trá
+vất	488	vất
+xá	487	xá
+dầm	487	dầm
+đài	486	đài
+ngâu	485	ngâu
+thị	484	thị
+bát	482	bát
+túp	482	túp
+ngoảnh	481	ngoảnh
+phu	479	phu
+ngài	479	ngài
+vụn	478	vụn
+gà	477	gà
+dập	476	dập
+huế	475	huế
+vả	474	vả
+phím	473	phím
+hiếu	473	hiếu
+miss	473	mít
+chóng	473	chóng
+khen	472	khen
+heart	472	hớt
+day	472	day
+bôn	471	bôn
+thổn	471	thổn
+kiều	471	kiều
+heo	469	heo
+bùi	468	bùi
+lạy	468	lạy
+don’t	466	don t
+bang	463	bang
+xui	462	xui
+ngước	461	ngước
+chen	461	chen
+thử	461	thử
+tell	458	theo
+gõ	457	gõ
+phá	456	phá
+tí	455	tí
+sưa	454	sưa
+oan	454	oan
+nóng	454	nóng
+đàng	453	đàng
+sữa	453	sữa
+biếc	452	biếc
+ong	449	ong
+vun	448	vun
+hậu	448	hậu
+sáu	446	sáu
+vấp	444	vấp
+tụi	443	tụi
+hài	442	hài
+make	442	mếch
+chạnh	441	chạnh
+ố	441	ố
+nhánh	437	nhánh
+xứng	435	xứng
+why	434	oai
+lờ	434	lờ
+boy	433	boi
+lính	433	lính
+mỹ	431	mỹ
+hôi	429	hôi
+mật	428	mật
+bọt	427	bọt
+đày	425	đày
+ảnh	422	ảnh
+ngựa	422	ngựa
+đứt	422	đứt
+đội	421	đội
+thổi	421	thổi
+lí	421	lí
+tám	420	tám
+nhan	420	nhan
+tích	417	tích
+trân	417	trân
+need	416	nít
+tả	415	tả
+tham	415	tham
+xiêu	415	xiêu
+meo	414	meo
+xếp	413	xếp
+nghệ	413	nghệ
+múa	412	múa
+xuyên	411	xuyên
+away	410	ơ guây
+ah	410	a
+sợi	409	sợi
+phi	408	phi
+phí	408	phí
+cam	406	cam
+bút	406	bút
+khang	405	khang
+liền	401	liền
+chèo	401	chèo
+you're	401	iu re
+of	400	ợp
+bôi	400	bôi
+cào	398	cào
+what	398	goắt
+ngốc	398	ngốc
+happy	397	háp pi
+sắt	396	sắt
+lựa	394	lựa
+li	394	li
+quãng	393	quãng
+thắt	393	thắt
+chấm	393	chấm
+ngả	393	ngả
+đọa	393	đọa
+lùa	391	lùa
+rước	391	rước
+căm	390	căm
+nô	390	nô
+nè	389	nè
+khoác	389	khoác
+gây	389	gây
+gốc	388	gốc
+rêu	387	rêu
+give	387	ghíp
+lũy	385	lũy
+kiêu	383	kiêu
+tưng	383	tưng
+nhành	381	nhành
+tát	381	tát
+cắt	379	cắt
+lả	378	lả
+nhuộm	378	nhuộm
+ùa	378	ùa
+ngác	378	ngác
+nôi	378	nôi
+thướt	378	thướt
+tôn	377	tôn
+chủ	376	chủ
+lẫn	375	lẫn
+trồng	375	trồng
+dưa	375	dưa
+giùm	375	giùm
+quyền	375	quyền
+nấu	374	nấu
+điêu	373	điêu
+đóng	373	đóng
+mơn	372	mơn
+tạo	372	tạo
+lộng	371	lộng
+ngút	371	ngút
+khuyên	370	khuyên
+xơ	370	xơ
+nhiệm	369	nhiệm
+vách	369	vách
+co	369	co
+quấn	367	quấn
+trổ	367	trổ
+night	367	nai
+hey	367	hây
+ảo	367	ảo
+tường	366	tường
+thêu	366	thêu
+khỏe	365	khỏe
+tùng	365	tùng
+bọn	363	bọn
+đói	362	đói
+món	362	món
+vua	362	vua
+sách	361	sách
+ví	361	ví
+cướp	358	cướp
+lồng	357	lồng
+but	356	bút
+ương	355	ương
+tách	354	tách
+độc	354	độc
+cry	354	cờ rai
+christmas	354	cờ rít sờ tờ mát sờ
+ghê	353	ghê
+òa	352	òa
+tonight	352	tu nai
+khu	352	khu
+back	352	bách
+quyến	350	quyến
+this	350	zít
+đỉnh	350	đỉnh
+dày	350	dày
+nồi	350	nồi
+hiến	350	hiến
+cày	350	cày
+neo	350	neo
+bye	350	bai
+dời	349	dời
+móc	349	móc
+lục	348	lục
+hơ	348	hơ
+nhường	346	nhường
+chề	346	chề
+cúc	346	cúc
+máy	345	máy
+vuốt	345	vuốt
+bữa	344	bữa
+i’m	344	i m
+xõa	344	xõa
+will	344	guyn
+chôm	344	chôm
+hữu	343	hữu
+đấu	342	đấu
+triệu	342	triệu
+dỗ	341	dỗ
+tác	341	tác
+mèo	340	mèo
+sỏi	340	sỏi
+xì	340	xì
+diệu	339	diệu
+mướt	339	mướt
+hoặc	339	hoặc
+tri	338	tri
+gắn	338	gắn
+di	338	di
+merry	338	me ri
+ngó	337	ngó
+ầu	337	ầu
+nhở	336	nhở
+bảy	335	bảy
+tro	335	tro
+mắc	334	mắc
+sạch	334	sạch
+chuỗi	334	chuỗi
+get	333	gét
+uyên	333	uyên
+quốc	332	quốc
+thiêng	332	thiêng
+trĩu	332	trĩu
+hải	331	hải
+ma	331	ma
+chặng	330	chặng
+hút	330	hút
+đức	329	đức
+vi	328	vi
+vần	328	vần
+ven	328	ven
+more	328	mo
+lonely	328	lôn ni
+đòi	327	đòi
+kìm	327	kìm
+đơm	326	đơm
+nón	326	nón
+sorry	325	xo ri
+lâng	325	lâng
+ngộ	325	ngộ
+vôi	324	vôi
+quỳ	324	quỳ
+còi	324	còi
+nguy	324	nguy
+bí	323	bí
+hô	323	hô
+bội	319	bội
+đỗ	319	đỗ
+vẻ	318	vẻ
+it's	317	ai ti ét
+nến	317	nến
+lì	316	lì
+mượn	314	mượn
+phim	313	phim
+lái	313	lái
+bộ	312	bộ
+kế	311	kế
+trút	311	trút
+năng	311	năng
+kim	310	kim
+luống	309	luống
+xiết	309	xiết
+lăng	309	lăng
+biền	309	biền
+đượm	308	đượm
+năn	308	năn
+bềnh	308	bềnh
+muối	308	muối
+rể	307	rể
+dặm	307	dặm
+o	307	o
+never	305	ne vơ
+bậu	304	bậu
+tượng	304	tượng
+bạt	303	bạt
+rap	303	ráp
+nâu	302	nâu
+ghép	301	ghép
+thoại	301	thoại
+súng	301	súng
+quyện	301	quyện
+á	301	á
+đậu	300	đậu
+nhấp	300	nhấp
+vân	299	vân
+chập	299	chập
+nghỉ	299	nghỉ
+thẩn	298	thẩn
+feel	298	phiu
+trâu	297	trâu
+ồ	296	ồ
+vực	296	vực
+chầm	296	chầm
+when	296	oen
+đồ	295	đồ
+tanh	295	tanh
+treo	294	treo
+ế	294	ế
+lạt	293	lạt
+giàn	292	giàn
+niên	292	niên
+đề	290	đề
+nhức	290	nhức
+nấy	290	nấy
+bày	290	bày
+lẽo	289	lẽo
+buộc	288	buộc
+kì	287	kì
+điệp	286	điệp
+đền	285	đền
+chiếm	284	chiếm
+rèm	284	rèm
+giành	284	giành
+đèo	283	đèo
+mực	283	mực
+3	283	ba
+gạo	283	gạo
+van	283	van
+tế	283	tế
+quây	282	quây
+xuồng	281	xuồng
+nổ	281	nổ
+thẳm	281	thẳm
+ngự	281	ngự
+chớm	281	chớm
+bỡ	280	bỡ
+ghềnh	280	ghềnh
+cause	278	cót xờ
+please	278	li
+xế	278	xế
+rằm	277	rằm
+viễn	277	viễn
+vứt	277	vứt
+siết	277	siết
+hả	276	hả
+vụng	276	vụng
+líu	275	líu
+trộm	274	trộm
+vướng	274	vướng
+thọ	273	thọ
+kiên	273	kiên
+mứt	272	mứt
+đạp	272	đạp
+ươm	272	ươm
+khê	272	khê
+crazy	272	cờ ra di
+gìn	271	gìn
+nạn	271	nạn
+mầm	271	mầm
+ghế	271	ghế
+tụ	270	tụ
+sim	270	sim
+nguyền	269	nguyền
+thuận	269	thuận
+thiếp	268	thiếp
+chỗ	268	chỗ
+địa	267	địa
+đáp	267	đáp
+sung	267	sung
+lập	266	lập
+điện	265	điện
+xấu	265	xấu
+đảo	264	đảo
+tuần	263	tuần
+vò	263	vò
+khóm	263	khóm
+ú	263	ú
+hoay	262	hoay
+trễ	262	trễ
+nếp	261	nếp
+leo	261	lê ô
+only	261	ôn li
+see	260	xi
+cửu	260	cửu
+cội	260	cội
+đeo	259	đeo
+thẳng	259	thẳng
+nhè	258	nhè
+phước	258	phước
+rõ	258	rõ
+cụ	258	cụ
+ná	258	ná
+vá	257	vá
+loay	257	loay
+ganh	257	ganh
+cong	256	cong
+bống	256	bống
+giặc	255	giặc
+rọi	254	rọi
+lội	254	lội
+đống	254	đống
+wo	254	u
+trình	254	trình
+xuất	253	xuất
+bó	253	bó
+xã	253	xã
+dùng	252	dùng
+căng	251	căng
+chồi	250	chồi
+chuốc	250	chuốc
+ham	249	ham
+khuôn	249	khuôn
+dò	248	dò
+eh	248	ê
+bê	248	bê
+đuổi	247	đuổi
+mốt	247	mốt
+khấn	246	khấn
+sẵn	246	sẵn
+san	245	san
+lư	245	lư
+vũng	245	vũng
+bộn	245	bộn
+ôn	245	ôn
+thác	245	thác
+cực	244	cực
+thách	244	thách
+rao	243	rao
+khốn	242	khốn
+đầm	242	đầm
+loving	242	lớp vinh
+tu	241	tu
+lùi	241	lùi
+đục	241	đục
+lưỡi	240	lưỡi
+đìu	240	đìu
+hế	240	hế
+chênh	240	chênh
+ướp	240	ướp
+vạt	239	vạt
+forever	239	pho re vờ
+lữ	239	lữ
+phồn	238	phồn
+sanh	238	sanh
+vuông	238	vuông
+trúc	237	trúc
+nốt	237	nốt
+thơi	237	thơi
+binh	236	binh
+trèo	236	trèo
+cuội	236	cuội
+phone	234	phôn
+trận	234	trận
+khoé	234	khóe
+thú	234	thú
+dùm	234	dùm
+time	234	tham
+lực	234	lực
+lọc	233	lọc
+nép	233	nép
+họa	233	họa
+mâm	233	mâm
+hổng	232	hổng
+chép	232	chép
+chít	232	chít
+nhối	232	nhối
+rũ	232	rũ
+boom	232	bum
+lững	232	lững
+way	231	guây
+lượn	231	lượn
+vay	230	vay
+ngục	229	ngục
+nôn	229	nôn
+ớ	229	ớ
+thảnh	228	thảnh
+leave	228	líp
+răng	228	răng
+ép	227	ép
+cằn	227	cằn
+ối	227	ối
+nếm	226	nếm
+ngưng	225	ngưng
+rủi	225	rủi
+chót	225	chót
+ya	225	a
+y	225	y
+phú	225	phú
+year	225	dia
+miếng	224	miếng
+sổ	224	sổ
+phùng	224	phùng
+alone	224	ơ lôn
+trìu	223	trìu
+tục	222	tục
+trăn	222	trăn
+túc	222	túc
+hèn	222	hèn
+rủ	222	rủ
+beautiful	222	biu ti phun
+há	222	há
+lưa	221	lưa
+ni	221	ni
+võng	220	võng
+đóm	220	đóm
+tịch	220	tịch
+lâm	220	lâm
+life	219	lai
+nhảy	219	nhảy
+xám	218	xám
+hời	218	hời
+pháp	218	pháp
+cương	216	cương
+hon	216	hon
+buôn	216	buôn
+phụng	215	phụng
+thủi	215	thủi
+good	215	gút
+hoàn	214	hoàn
+xảy	214	xảy
+thốt	214	thốt
+hại	213	hại
+new	213	niu
+mo	213	mo
+ok	212	ô kê
+goodbye	212	gút bai
+đâm	212	đâm
+rách	212	rách
+bậc	212	bậc
+liên	211	liên
+quýt	211	quýt
+chói	211	chói
+hẳn	211	hẳn
+đẩy	210	đẩy
+vũ	210	vũ
+ever	209	e vơ
+cồn	207	cồn
+mầu	207	mầu
+diện	207	diện
+down	207	đao
+tháp	207	tháp
+can't	207	can tê
+đoán	207	đoán
+út	206	út
+chừ	205	chừ
+còng	205	còng
+ròng	204	ròng
+bại	204	bại
+sờn	204	sờn
+gấu	204	gấu
+rắc	204	rắc
+gấp	203	gấp
+liễu	203	liễu
+loang	203	loang
+sến	202	sến
+tắc	202	tắc
+thuỷ	202	thủy
+game	202	ghêm
+bỏng	202	bỏng
+chờn	201	chờn
+nai	201	nai
+bia	201	bia
+ngắt	200	ngắt
+thui	200	thui
+ngực	200	ngực
+real	200	ri an
+đỡ	199	đỡ
+ốm	198	ốm
+vâng	198	vâng
+ào	198	ào
+bom	197	bom
+trưởng	197	trưởng
+khe	196	khe
+len	196	len
+phiên	196	phiên
+lường	196	lường
+chuối	195	chuối
+right	195	rai
+đảm	195	đảm
+tuông	195	tuông
+dọc	195	dọc
+nghiệt	195	nghiệt
+not	195	nót
+siêu	194	siêu
+tiết	194	tiết
+take	194	thếch
+khôi	194	khôi
+trắc	193	trắc
+ác	193	ác
+kẹo	193	kẹo
+búp	193	búp
+hoá	193	hóa
+vành	192	vành
+from	192	phờ rom
+vồng	192	vồng
+đuôi	192	đuôi
+mũi	191	mũi
+phà	191	phà
+tờ	191	tờ
+tắm	191	tắm
+giày	191	giày
+tò	191	tò
+mùng	190	mùng
+how	190	hau
+ới	190	ới
+mồng	190	mồng
+cua	189	cua
+vờn	189	vờn
+bẻ	189	bẻ
+show	189	sâu
+out	188	ao tờ
+truyền	188	truyền
+thiu	188	thiu
+đom	187	đom
+miễn	187	miễn
+ích	187	ích
+sứ	187	sứ
+wish	187	guýt
+thiêu	187	thiêu
+stay	187	xờ tây
+chuồn	187	chuồn
+soul	187	xôn
+đoá	186	đóa
+trêu	186	trêu
+jingle	186	jing gồ
+chơ	186	chơ
+hố	185	hố
+lìm	185	lìm
+giòng	185	giòng
+luân	185	luân
+tít	185	tít
+lở	185	lở
+sửa	185	sửa
+xoa	184	xoa
+where	184	goe
+lân	184	lân
+hun	183	hun
+mác	183	mác
+mạc	183	mạc
+got	183	gót
+if	183	íp
+ván	183	ván
+ngợi	182	ngợi
+đọc	182	đọc
+cắn	182	cắn
+nỉ	181	nỉ
+nguyệt	181	nguyệt
+waiting	181	guết tinh
+khua	180	khua
+ủi	180	ủi
+vênh	180	vênh
+hớ	180	hớ
+kiến	179	kiến
+lõng	179	lõng
+chai	179	chai
+ù	179	ù
+ooh	179	u
+gã	178	gã
+thước	178	thước
+sleep	178	xờ líp
+láng	177	láng
+lady	177	lây đi
+tân	176	tân
+ghe	176	ghe
+chùng	176	chùng
+mị	176	mị
+mõ	176	mõ
+dont	176	đông
+diễn	176	diễn
+lụy	176	lụy
+eat	176	ít
+diết	175	diết
+ủ	175	ủ
+thủ	175	thủ
+tệ	175	tệ
+keep	175	kíp
+rứt	174	rứt
+đao	174	đao
+chống	174	chống
+feeling	173	phi linh
+liều	172	liều
+bùng	172	bùng
+buồng	172	buồng
+quảng	172	quảng
+lấm	171	lấm
+thưở	171	thuở
+tần	171	tần
+dốc	171	dốc
+bơi	171	bơi
+trơn	170	trơn
+dựa	170	dựa
+chuyển	170	chuyển
+rít	170	rít
+sàng	170	sàng
+loạn	169	loạn
+ồn	169	ồn
+liêng	169	liêng
+tùy	168	tùy
+phất	168	phất
+tớ	168	tớ
+ping	168	pinh
+đoan	167	đoan
+nhạn	167	nhạn
+bùn	166	bùn
+tằm	166	tằm
+dũng	165	dũng
+chày	165	chày
+hạn	164	hạn
+ray	164	ray
+tràng	164	tràng
+xang	164	xang
+nhòe	164	nhòe
+tĩnh	164	tĩnh
+hoe	164	hoe
+am	164	am
+khai	164	khai
+everything	164	e vơ ri thinh
+tiềm	164	tiềm
+tôm	164	tôm
+liu	164	liu
+tù	163	tù
+đồn	163	đồn
+dăm	163	dăm
+tức	162	tức
+cuộn	162	cuộn
+đế	162	đế
+have	162	háp
+fly	162	phờ lai
+gũi	162	gũi
+ngơi	162	ngơi
+ngoa	162	ngoa
+mượt	161	mượt
+ẩn	161	ẩn
+bad	161	bát đờ
+bãi	161	bãi
+loanh	160	loanh
+lầy	159	lầy
+truân	159	truân
+you’re	159	you re
+chanh	158	chanh
+sử	158	sử
+hê	158	hê
+xắn	158	xắn
+chớp	158	chớp
+toán	158	toán
+gành	158	gành
+then	158	then
+rinh	157	rinh
+eyes	157	ai sờ
+khí	157	khí
+vé	156	vé
+lui	156	lui
+ríu	156	ríu
+rạch	155	rạch
+xum	155	xum
+kiệu	155	kiệu
+gập	155	gập
+dinh	155	dinh
+nhàn	155	nhàn
+buồm	155	buồm
+nhụy	155	nhụy
+too	155	tu
+ruột	154	ruột
+chức	154	chức
+vĩ	154	vĩ
+dã	154	dã
+te	154	te
+cấy	154	cấy
+đạt	154	đạt
+bong	154	bong
+dế	154	dế
+lặn	153	lặn
+giường	153	giường
+bã	153	bã
+lưới	153	lưới
+phùn	153	phùn
+lem	153	lem
+try	153	troai
+hãi	152	hãi
+giỏi	152	giỏi
+tảo	151	tảo
+ráng	151	ráng
+at	151	át
+cởi	151	cởi
+tưới	150	tưới
+chát	150	chát
+thịt	149	thịt
+uốn	149	uốn
+đựng	149	đựng
+forget	149	pho ghét
+tán	149	tán
+điếu	148	điếu
+loại	148	loại
+khinh	148	khinh
+ờ	148	ờ
+vong	148	vong
+tam	148	tam
+ổn	148	ổn
+chế	148	chế
+by	148	by
+number	148	năm bơ
+túi	147	túi
+hiểm	147	hiểm
+bìm	147	bìm
+ung	147	ung
+de	147	de
+rạn	147	rạn
+care	147	ke
+nhăn	146	nhăn
+mành	146	mành
+hét	146	hét
+đạn	146	đạn
+gò	146	gò
+khá	145	khá
+every	145	e vơ ri
+táp	145	táp
+chong	145	chong
+nghề	145	nghề
+diêu	145	diêu
+đăng	144	đăng
+khuyết	144	khuyết
+huh	144	hu
+i'll	144	ai lờ lờ
+hot	144	hót
+hold	143	hâu
+thóc	143	thóc
+still	143	xờ tiu
+much	143	mắt
+chẵng	143	chẵng
+nhóc	142	nhóc
+họp	142	họp
+khâu	142	khâu
+kẻo	142	kẻo
+nguội	142	nguội
+here	142	hia
+cường	142	cường
+look	142	lúc
+cãi	141	cãi
+trú	141	trú
+mải	141	mải
+dưỡng	141	dưỡng
+vin	140	vin
+gonna	140	gon na
+quyên	140	quyên
+ghì	139	ghì
+bịp	139	bịp
+văn	139	văn
+gáy	139	gáy
+let's	139	lét ét
+hurt	139	hớt
+nhàu	138	nhàu
+tành	138	tành
+thỏa	138	thỏa
+xào	138	xào
+fuck	138	phúc
+té	138	té
+khoải	137	khoải
+toả	137	tỏa
+diệt	137	diệt
+bai	137	bai
+mọc	137	mọc
+ngán	137	ngán
+tía	137	tía
+mạ	137	mạ
+rợp	136	rợp
+team	136	tim
+phiếm	136	phiếm
+rì	136	rì
+ò	136	ò
+xíu	135	xíu
+nhiệt	135	nhiệt
+chè	135	chè
+xen	135	xen
+high	135	hai
+hăng	135	hăng
+gâu	135	gâu
+rơm	134	rơm
+phản	133	phản
+thượng	133	thượng
+ngâm	132	ngâm
+khoai	132	khoai
+vác	132	vác
+sắm	132	sắm
+chang	132	chang
+dance	132	đan
+quẩn	131	quẩn
+dẫm	131	dẫm
+ưa	131	ưa
+cúng	131	cúng
+luỹ	131	lũy
+ên	131	ên
+trị	130	trị
+lô	130	lô
+there	130	de
+nhô	130	nhô
+hu	130	hu
+really	129	riu li
+cặp	129	cặp
+mah	129	ma
+nấng	129	nấng
+nấc	129	nấc
+was	129	uốt
+án	128	án
+dãy	128	dãy
+it’s	128	it s
+chao	128	chao
+rầu	128	rầu
+viếng	128	viếng
+hây	128	hây
+money	128	măn ni
+xương	128	xương
+lận	127	lận
+bệnh	127	bệnh
+lừng	127	lừng
+trối	127	trối
+lụi	127	lụi
+đận	126	đận
+liếp	126	liếp
+lười	126	lười
+nhong	126	nhong
+miều	125	miều
+tràm	125	tràm
+dơi	125	dơi
+xoáy	125	xoáy
+mộc	125	mộc
+réo	124	réo
+ư	124	ư
+cắp	124	cắp
+cafe	124	cà phê
+thảo	124	thảo
+nùng	124	nùng
+sư	124	sư
+kho	124	kho
+truyện	124	truyện
+thoi	124	thoi
+đốc	123	đốc
+náu	123	náu
+nuông	123	nuông
+chuyên	123	chuyên
+nhi	123	nhi
+mạng	123	mạng
+lon	123	lon
+phơ	122	phơ
+cưng	122	cưng
+trán	122	trán
+fall	122	phôn
+think	121	thinh
+cản	121	cản
+hàm	121	hàm
+tròng	121	tròng
+nắn	121	nắn
+about	121	ơ bao
+two	121	tu
+mind	121	mai đờ
+le	120	le
+chả	120	chả
+đăm	120	đăm
+ninh	120	ninh
+thon	120	thon
+viet	119	việt
+khéo	119	khéo
+đùng	119	đùng
+again	119	ơ ghên
+body	119	bo đi
+lề	119	lề
+4	118	bốn
+bells	118	beo xờ
+over	118	âu vờ
+ngao	118	ngao
+mưu	118	mưu
+always	118	an guây
+giục	117	giục
+ngấn	117	ngấn
+đu	117	đu
+vở	117	vở
+ngoai	116	ngoài
+lẻo	116	lẻo
+nhầm	116	nhầm
+chắt	116	chắt
+quáng	116	quáng
+trứng	115	trứng
+kem	115	kem
+náo	115	náo
+gặt	115	gặt
+bẽo	115	bẽo
+xẻ	115	xẻ
+vẩn	115	vẩn
+three	115	thờ ri
+gươm	114	gươm
+ngưu	114	ngưu
+trọ	114	trọ
+mía	114	mía
+alright	114	eo rai
+nghếch	114	nghếch
+yes	114	i ét
+bum	114	bum
+lôi	113	lôi
+tú	113	tú
+chiu	113	chiu
+đờn	113	đờn
+our	113	ao ờ
+nhai	113	nhai
+thịnh	113	thịnh
+chừa	112	chừa
+trói	112	trói
+tango	112	tăng gô
+giêng	112	giêng
+vắt	111	vắt
+call	111	côn
+hẹp	111	hẹp
+cục	111	cục
+hạc	111	hạc
+sexy	111	xếch xi
+gãy	111	gãy
+hấp	111	hấp
+birthday	111	bớt đây
+ting	111	tinh
+stop	111	xờ tóp
+nhục	110	nhục
+nhơ	110	nhơ
+rền	110	rền
+mĩm	110	mĩm
+tứ	110	tứ
+could	110	cút
+everyday	110	e ve ri đây
+cột	109	cột
+quỷ	109	quỷ
+xướng	109	xướng
+because	109	bi cót
+cóc	109	cóc
+khối	109	khối
+kém	109	kém
+vượng	109	vượng
+xi	109	xi
+cút	108	cút
+cắc	108	cắc
+bủa	108	bủa
+gan	107	gan
+bẫy	107	bẫy
+bò	107	bò
+dằn	107	dằn
+xâm	107	xâm
+nại	107	nại
+chường	107	chường
+nu	107	nu
+đỗi	106	đỗi
+đấng	106	đấng
+dancing	106	đan xinh
+hòn	106	hòn
+trề	105	trề
+quít	105	quít
+thảm	105	thảm
+they	105	dây
+sét	105	sét
+world	105	gua
+free	104	phờ ri
+dong	104	dong
+quản	104	quản
+nghịch	104	nghịch
+music	104	miu zích
+bám	104	bám
+muống	104	muống
+mướp	103	mướp
+smile	103	xờ mai
+xước	103	xước
+lật	103	lật
+giầy	103	giầy
+rỗi	103	rỗi
+huyên	103	huyên
+dặt	103	dặt
+đuốc	103	đuốc
+méo	103	méo
+cấm	102	cấm
+ngạt	102	ngạt
+khấu	101	khấu
+bổng	101	bổng
+hong	101	hong
+hưởng	101	hưởng
+chới	101	chới
+summer	101	xăm mờ
+han	100	han
+cộng	100	cộng
+khoát	100	khoát
+sôi	100	sôi
+ding	100	đinh
+bù	99	bù
+teen	99	tin
+nhấc	99	nhấc
+đòng	99	đòng
+ó	99	ó
+oà	98	òa
+bóp	98	bóp
+nhen	98	nhen
+beat	98	bít
+ngũ	98	ngũ
+turn	98	tơn
+khóa	98	khóa
+ngổn	98	ngổn
+gừng	98	gừng
+who	98	vê kép hắt ô
+chuyền	98	chuyền
+kỹ	98	kỹ
+star	98	xờ ta
+wow	98	oao
+yeh	97	gie
+sở	97	sở
+hụt	97	hụt
+khoa	97	khoa
+ho	97	ho
+thai	97	thai
+shake	97	sếch
+bắn	96	bắn
+miễu	96	miễu
+giam	96	giam
+hứng	96	hứng
+tấn	96	tấn
+dẹp	96	dẹp
+dị	96	dị
+nobody	95	nô bo đi
+gồng	95	gồng
+khiên	95	khiên
+bạch	95	bạch
+cống	95	cống
+váy	95	váy
+triều	95	triều
+ếch	95	ếch
+yea	95	dia
+đì	95	đì
+let’s	95	let s
+phiến	95	phiến
+phục	94	phục
+thủa	94	thủa
+mắng	94	mắng
+believe	94	be li ép vờ
+ngôn	94	ngôn
+phen	94	phen
+muỗi	94	muỗi
+chùm	93	chùm
+cắm	93	cắm
+mắm	93	mắm
+xê	93	xê
+dô	93	dô
+wơ	93	wơ
+chiêu	93	chiêu
+lêu	93	lêu
+ton	93	ton
+chật	92	chật
+ngươi	92	ngươi
+hiển	92	hiển
+ưng	92	ưng
+mẻ	92	mẻ
+bần	92	bần
+tòa	92	tòa
+nhấm	92	nhấm
+táo	92	táo
+ngãi	92	ngãi
+lượng	92	lượng
+chánh	92	chánh
+nhát	92	nhát
+cừu	92	cừu
+tiểu	91	tiểu
+phóng	91	phóng
+party	91	pác ti
+lén	91	lén
+tộc	91	tộc
+thản	91	thản
+hiệu	91	hiệu
+hông	91	hông
+cải	91	cải
+lấn	91	lấn
+mục	91	mục
+bế	91	bế
+true	91	tru
+mì	90	mì
+trùm	90	trùm
+hang	90	hang
+xích	90	xích
+find	90	phai
+dục	90	dục
+daddy	90	đát đi
+vệ	90	vệ
+kèn	90	kèn
+túng	90	túng
+can’t	90	can t
+doo	90	đu
+crazee	90	crazee
+kèm	89	kèm
+chím	89	chím
+made	89	mết
+ro	89	ro
+quỳnh	89	quỳnh
+live	89	lai
+mạch	89	mạch
+gợn	88	gợn
+rặng	88	rặng
+hú	88	hú
+quặng	88	quặng
+môn	88	môn
+20	88	hai mươi
+hear	88	hia
+tiếu	88	tiếu
+hủy	88	hủy
+lửng	88	lửng
+xoe	88	xoe
+nhốt	87	nhốt
+đặc	87	đặc
+vụ	87	vụ
+sỹ	87	sỹ
+vải	87	vải
+quơ	87	quơ
+rút	87	rút
+sui	87	sui
+cu	87	cu
+băn	86	băn
+cạm	86	cạm
+nhuốm	86	nhuốm
+dỡ	86	dỡ
+tho	86	tho
+đố	86	đố
+welcome	86	goeo căm
+around	86	a rao
+hệ	86	hệ
+bae	86	bê
+open	86	âu pừn
+ngửi	86	ngửi
+rô	86	rô
+everybody	86	e vơ ri bo đi
+cù	85	cù
+thiện	85	thiện
+cưu	85	cưu
+vận	85	vận
+gọn	85	gọn
+khoăn	85	khoăn
+ti	85	ti
+tầng	85	tầng
+bưởi	85	bưởi
+tấp	85	tấp
+nết	85	nết
+trơ	85	trơ
+bốc	85	bốc
+hanh	85	hanh
+ửng	84	ửng
+trụ	84	trụ
+dữ	84	dữ
+mồi	84	mồi
+ngói	84	ngói
+xéo	84	xéo
+trỗi	84	trỗi
+sky	84	xờ cai
+dồn	84	dồn
+kênh	84	kênh
+mambo	84	mam bô
+pom	84	pom
+numa	84	numa
+bụng	83	bụng
+cận	83	cận
+cấp	83	cấp
+gỗ	83	gỗ
+trưng	83	trưng
+phung	83	phung
+nản	83	nản
+missing	83	mít xinh
+luộc	83	luộc
+võ	83	võ
+gave	83	ghép
+dream	82	đờ rim
+crush	82	cờ rát
+chữa	82	chữa
+vẳng	82	vẳng
+sườn	82	sườn
+home	82	hôm
+biểu	81	biểu
+trụi	81	trụi
+yo	81	ô
+online	81	on lai
+tịnh	81	tịnh
+vệt	81	vệt
+thỏ	81	thỏ
+kẹt	81	kẹt
+lie	81	li
+chuốt	81	chuốt
+dụng	81	dụng
+lộ	81	lộ
+sám	81	sám
+chảnh	80	chảnh
+que	80	que
+củ	80	củ
+lịch	80	lịch
+xét	80	xét
+tạnh	80	tạnh
+vè	80	vè
+trúng	80	trúng
+hẫng	80	hẫng
+been	80	bin
+gật	80	gật
+bòn	80	bòn
+something	80	xăm thinh
+phán	80	phán
+onh	80	onh
+giám	79	giám
+biếu	79	biếu
+cheo	79	cheo
+lẳng	79	lẳng
+tuyến	79	tuyến
+voi	79	voi
+xề	79	xề
+alibaba	79	a li ba ba
+trạng	78	trạng
+flow	78	phờ lâu
+cỡ	78	cỡ
+hở	78	hở
+bắp	78	bắp
+lắt	77	lắt
+ngẫm	77	ngẫm
+xốn	77	xốn
+listen	77	lít xừn
+nhậu	77	nhậu
+sót	77	sót
+we’re	77	we re
+đéo	77	đéo
+đọt	77	đọt
+sunshine	77	xăn sai
+lòa	77	lòa
+gong	77	gong
+7	76	bảy
+facebook	76	phây xờ búc
+trãi	76	trãi
+kiểu	76	kiểu
+tụng	76	tụng
+veo	76	veo
+last	76	lát xờ tờ
+lây	76	lây
+cuz	76	cu
+râm	76	râm
+nho	76	nho
+mommy	76	mom mi
+dịch	75	dịch
+khoẻ	75	khỏe
+cậy	75	cậy
+nhang	75	nhang
+thống	75	thống
+giơ	75	giơ
+dông	75	dông
+văng	75	văng
+making	75	ma kinh
+đc	75	đc
+đặng	75	đặng
+luật	74	luật
+hộp	74	hộp
+đãi	74	đãi
+bênh	74	bênh
+chùn	74	chùn
+corona	74	cô rôn na
+hoạn	74	hoạn
+quét	74	quét
+lãnh	74	lãnh
+trâm	74	trâm
+kĩ	74	kĩ
+bói	74	bói
+runaway	74	răn ơ guây
+nhện	73	nhện
+vỉa	73	vỉa
+rắt	73	rắt
+phế	73	phế
+thính	73	thính
+xạc	73	xạc
+lông	73	lông
+chúm	73	chúm
+ngẹn	73	ngẹn
+mí	72	mí
+better	72	bét tơ
+cân	72	cân
+face	72	phây
+vặt	72	vặt
+cuốc	72	cuốc
+dèm	72	dèm
+nhá	72	nhá
+lòe	72	lòe
+lất	72	lất
+k	72	ca
+báu	72	báu
+nấm	72	nấm
+lò	72	lò
+chần	72	chần
+grandma	72	gờ ran đờ ma
+light	72	lai
+he	72	he
+cứng	72	cứng
+chuẩn	71	chuẩn
+lốc	71	lốc
+10	71	mười
+nhu	71	nhu
+đễ	71	đễ
+giãi	71	giãi
+nót	71	nót
+khoang	71	khoang
+grandpa	71	gờ ran pa
+friend	71	phờ ren
+drink	71	rinh
+rẫy	71	rẫy
+bolero	71	bô le rô
+ready	71	rét đi
+ngẫn	70	ngẫn
+trẩy	70	trẩy
+cõng	70	cõng
+lào	70	lào
+ngẩng	70	ngẩng
+thùy	70	thùy
+oai	70	oai
+liếc	70	liếc
+hít	70	hít
+nói:	70	nói
+dền	70	dền
+dờ	70	dờ
+hard	70	hát
+địch	70	địch
+ghém	69	ghém
+ây	69	ây
+ả	69	ả
+trừ	69	trừ
+or	69	o
+mạn	69	mạn
+chuột	69	chuột
+fine	69	phai
+muông	69	muông
+khái	69	khái
+mức	69	mức
+lằn	69	lằn
+bèn	68	bèn
+chíu	68	chíu
+ngoái	68	ngoái
+xông	68	xông
+chằng	68	chằng
+phẳng	68	phẳng
+hand	68	han
+dải	68	dải
+cỗi	68	cỗi
+nập	68	nập
+valentine	68	va len tin
+we're	68	guy re
+she	68	si
+khám	68	khám
+riu	68	riu
+bag	68	bát
+mẫu	67	mẫu
+dự	67	dự
+đẻ	67	đẻ
+xoã	67	xõa
+some	67	xăm
+phàm	67	phàm
+khích	67	khích
+ám	67	ám
+tướng	67	tướng
+suông	67	suông
+kiệt	67	kiệt
+nothing	67	nô thinh
+tiệc	67	tiệc
+bặt	67	bặt
+phạn	67	phạn
+melao	67	melao
+bào	66	bào
+dột	66	dột
+trọc	66	trọc
+trớ	66	trớ
+lăm	66	lăm
+vãn	66	vãn
+ắp	66	ắp
+tã	66	tã
+sing	66	xinh
+underground	66	ăn đơ gờ rao
+trượt	66	trượt
+cháo	66	cháo
+hỏng	66	hỏng
+tiamo	66	ti a mô
+luyện	66	luyện
+i’ll	66	i ll
+bập	65	bập
+tột	65	tột
+lu	65	lu
+un	65	un
+vung	65	vung
+tá	65	tá
+hầu	65	hầu
+stand	65	xờ ten đờ
+vóc	65	vóc
+rằng:	65	rằng
+phanh	65	phanh
+nhởn	64	nhởn
+bu	64	bu
+n	64	nờ
+fake	64	phếch
+đằm	64	đằm
+lover	64	lớp vờ
+hộ	64	hộ
+bring	64	bờ rinh
+khả	64	khả
+fun	64	phăn
+dj	64	dê gii
+thằn	64	thằn
+mõi	63	mõi
+đéc	63	đéc
+hỏa	63	hỏa
+chương	63	chương
+dzô	63	dzô
+chà	63	chà
+nọ	63	nọ
+cổng	63	cổng
+hốt	63	hốt
+blue	63	bờ lu
+ném	63	ném
+name	63	nêm
+nhựa	62	nhựa
+ứa	62	ứa
+nứt	62	nứt
+tùa	62	tùa
+gặm	62	gặm
+ngủi	62	ngủi
+lalalalala	62	lalalalala
+dreams	62	rim xờ
+hởi	62	hởi
+bổn	62	bổn
+soạn	62	soạn
+nghê	62	nghê
+àh	62	àh
+huyệt	61	huyệt
+kê	61	kê
+cốm	61	cốm
+lóng	61	lóng
+lộn	61	lộn
+đinh	61	đinh
+best	61	bét
+mím	61	mím
+đấm	61	đấm
+đích	61	đích
+hit	61	hít
+hate	61	hát
+fire	61	phai
+hands	61	hen xờ
+tồi	61	tồi
+phác	60	phác
+vịnh	60	vịnh
+5	60	năm
+lói	60	lói
+hảo	60	hảo
+giỡn	60	giỡn
+ri	60	ri
+rapper	60	ráp pơ
+xi-nê	60	xi nê
+vòm	60	vòm
+tráng	60	tráng
+tears	60	tia sờ
+giặt	60	giặt
+xu	60	xu
+tặc	60	tặc
+quạt	60	quạt
+her	60	hơ
+nhằm	60	nhằm
+guốc	59	guốc
+điển	59	điển
+30	59	ba mươi
+nhổ	59	nhổ
+nhe	59	nhe
+ride	59	rai đờ
+gàu	59	gàu
+rửa	59	rửa
+very	59	vơ ri
+mine	59	mai
+kiềm	59	kiềm
+bì	59	bì
+đệ	58	đệ
+châm	58	châm
+sếp	58	sếp
+né	58	né
+khánh	58	khánh
+marry	58	ma ri
+lĩnh	58	lĩnh
+đoạ	58	đọa
+lão	58	lão
+i've	58	ai ve
+liếng	58	liếng
+tàng	58	tàng
+quí	58	quí
+sấu	58	sấu
+samba	58	xam ba
+cập	57	cập
+mỏ	57	mỏ
+cú	57	cú
+bỉ	57	bỉ
+lợn	57	lợn
+getting	57	ghét tinh
+xòe	57	xòe
+chill	57	chiu
+rượi	57	rượi
+khuây	57	khuây
+there's	57	de ét sờ
+luffy	57	lắp phi
+break	57	bờ rếch cờ
+giòn	57	giòn
+today	57	tu đây
+dính	56	dính
+tuột	56	tuột
+sắn	56	sắn
+khởi	56	khởi
+quàng	56	quàng
+nớt	56	nớt
+tín	56	tín
+put	56	pút
+bell	56	beo
+háo	56	háo
+lã	56	lã
+nua	56	nua
+bồn	56	bồn
+đảng	56	đảng
+von	56	von
+nghiêm	56	nghiêm
+giáp	56	giáp
+sòng	56	sòng
+lim	56	lim
+người	56	người
+loa	56	loa
+ngầu	56	ngầu
+tăn	56	tăn
+măng	56	măng
+touch	56	tót
+săn	56	săn
+nah	56	na
+die	56	đi
+phạt	56	phạt
+phức	56	phức
+toong	56	toong
+noọng	56	noọng
+lắp	55	lắp
+giảng	55	giảng
+honey	55	ho ni
+huyết	55	huyết
+hãnh	55	hãnh
+miết	55	miết
+without	55	guýt dao
+nệm	55	nệm
+bird	55	bớt
+toi	55	toi
+work	55	uốc
+tào	54	tào
+mập	54	mập
+thòi	54	thòi
+ốc	54	ốc
+thót	54	thót
+nải	54	nải
+nhãn	54	nhãn
+lặp	54	lặp
+nũng	54	nũng
+lọn	54	lọn
+okay	54	ô cây
+ngư	54	ngư
+ih	54	i
+myself	54	mai xeo
+trì	54	trì
+chải	54	chải
+through	54	thờ ru
+save	54	xếp
+xoan	54	xoan
+thoải	54	thoải
+ì	54	ì
+ló	54	ló
+fa	54	ép ây
+rắn	54	rắn
+falling	54	pha linh
+hello	54	hê lô
+cat	54	cát
+rạo	53	rạo
+thuơng	53	thuơng
+nhỡ	53	nhỡ
+mỉa	53	mỉa
+yah	53	i a
+thuê	53	thuê
+rỉ	53	rỉ
+ngạn	53	ngạn
+mụ	53	mụ
+hắn	53	hắn
+bảng	53	bảng
+hẩm	53	hẩm
+trấn	53	trấn
+together	53	tơ ge dờ
+rộ	53	rộ
+vó	52	vó
+rạt	52	rạt
+nít	52	nít
+bưng	52	bưng
+trằn	52	trằn
+hức	52	hức
+won't	52	uân tê
+đước	52	đước
+next	52	nếch
+vông	52	vông
+top	52	tóp
+bấp	52	bấp
+kajima	52	ka ji ma
+as	52	ét
+uớc	52	uớc
+phồng	52	phồng
+mouse	52	mau sờ
+thuật	52	thuật
+butterfly	52	bút tờ phờ lai
+drinks	52	đờ rinh
+swim	52	xờ guym
+thuyết	51	thuyết
+chó	51	chó
+lồ	51	lồ
+tik	51	tích
+xách	51	xách
+chọc	51	chọc
+diễm	51	diễm
+chợp	51	chợp
+vén	51	vén
+nguyễn	51	nguyễn
+xử	51	xử
+thập	51	thập
+dật	51	dật
+kèo	51	kèo
+dog	51	đóoc
+comme	51	com mờ
+thụy	51	thụy
+cum	51	cum
+candy	51	can đi
+chicken	51	chích cừn
+tỷ	50	tỷ
+cún	50	cún
+giếng	50	giếng
+homie	50	hôm mi
+tét	50	tét
+lóc	50	lóc
+lies	50	li sờ
+sàn	50	sàn
+stronger	50	troong gơ
+bấc	50	bấc
+biếng	50	biếng
+bưu	50	bưu
+bực	50	bực
+râu	50	râu
+xiêm	50	xiêm
+lolli	50	lolli
+b	49	bê
+close	49	cờ lâu
+dép	49	dép
+huynh	49	huynh
+cứa	49	cứa
+béo	49	béo
+gắm	49	gắm
+ớt	49	ớt
+cảng	49	cảng
+hưng	49	hưng
+miện	49	miện
+sụp	49	sụp
+ấn	49	ấn
+trương	49	trương
+road	49	rốt
+sản	49	sản
+ring	49	rinh
+comeback	49	côm bách
+ur	49	ơ
+cant	48	ken
+bấm	48	bấm
+vựa	48	vựa
+chu	48	chu
+ngữ	48	ngữ
+ren	48	ren
+khế	48	khế
+first	48	phớt
+tâu	48	tâu
+nẽo	48	nẽo
+gẫy	48	gẫy
+king	48	kinh
+ời	48	ời
+quái	48	quái
+đật	48	đật
+rụt	48	rụt
+rè	48	rè
+pon	48	pon
+khan	47	khan
+phạm	47	phạm
+kha	47	kha
+lách	47	lách
+thắc	47	thắc
+dấn	47	dấn
+đung	47	đung
+hẻm	47	hẻm
+play	47	pờ lây
+nịu	47	nịu
+little	47	lít tồ
+well	47	goeo
+cool	47	cun
+dai	47	dai
+nhả	47	nhả
+sun	47	sun
+nhắp	47	nhắp
+phó	47	phó
+chóp	47	chóp
+sleigh	47	sờ li
+teo	47	teo
+talk	47	thoóc
+tạp	47	tạp
+hoo	47	hu
+ủn	47	ủn
+ỉn	47	ỉn
+nhóm	46	nhóm
+gội	46	gội
+alive	46	ơ lai
+that's	46	thát ét
+sờ	46	sờ
+huệ	46	huệ
+xiu	46	xiu
+loan	46	loan
+khỏa	46	khỏa
+us	46	út
+oanh	46	oanh
+thạch	46	thạch
+xả	46	xả
+rẻ	46	rẻ
+tuốt	46	tuốt
+sừng	45	sừng
+choáng	45	choáng
+nhìu	45	nhìu
+paris	45	pa rít
+keo	45	keo
+mận	45	mận
+véo	45	véo
+óc	45	óc
+xắc	45	xắc
+đòn	45	đòn
+coming	45	cô minh
+darling	45	đơ linh
+phủi	45	phủi
+should	45	sút
+nghiên	45	nghiên
+worry	45	gua ri
+nhọn	45	nhọn
+bùm	45	bùm
+lọt	44	lọt
+bén	44	bén
+đốm	44	đốm
+nhã	44	nhã
+bọc	44	bọc
+quầng	44	quầng
+rát	44	rát
+ải	44	ải
+chụm	44	chụm
+bar	44	ba
+ngẫu	44	ngẫu
+nhập	44	nhập
+đột	44	đột
+cấu	44	cấu
+quẹt	44	quẹt
+looking	44	lu kinh
+ngớt	44	ngớt
+vỹ	44	vỹ
+anymore	44	a ny mo
+radio	44	ra đi ô
+chiêng	44	chiêng
+lalala	44	lalala
+lột	44	lột
+chổi	44	chổi
+follow	43	pho lâu
+tẻ	43	tẻ
+anh/em	43	anh , em
+rai	43	rai
+nướng	43	nướng
+vịn	43	vịn
+hột	43	hột
+bảnh	43	bảnh
+choàng	43	choàng
+ohh	43	ô
+khẩu	43	khẩu
+xài	43	xài
+someone	43	xăm oăn
+mớ	43	mớ
+tốn	43	tốn
+:	43	:
+om	43	om
+breaking	43	bờ rếch kinh
+tốc	43	tốc
+share	43	se
+aha	43	a ha
+ey	42	ây
+kiện	42	kiện
+iu	42	iu
+nheo	42	nheo
+tật	42	tật
+gắt	42	gắt
+mần	42	mần
+vịt	42	vịt
+hiếm	42	hiếm
+18	42	mười tám
+diếm	42	diếm
+t	42	tê
+uất	42	uất
+hấu	42	hấu
+kịch	42	kịch
+dầy	42	dầy
+lịm	42	lịm
+cẩn	42	cẩn
+thợ	42	thợ
+rê	42	rê
+xàng	42	xàng
+chốt	42	chốt
+hổ	42	hổ
+shine	42	sai
+nhì	42	nhì
+áh	42	áh
+thoang	41	thoang
+sập	41	sập
+kiss	41	kít xờ
+chục	41	chục
+fool	41	phu
+thuồng	41	thuồng
+move	41	mu vờ
+rock	41	rốc
+town	41	thao
+đũa	41	đũa
+tiều	41	tiều
+khít	41	khít
+ngượng	41	ngượng
+đúc	41	đúc
+ổng	41	ổng
+khoá	41	khóa
+gang	41	gang
+g	41	giờ
+j	41	gi
+0	41	không
+rưới	41	rưới
+siêng	41	siêng
+magic	41	ma gích
+gotta	41	gốt ta
+kẽo	41	kẽo
+8	41	tám
+đính	41	đính
+maria	41	ma ri a
+babie	41	bây bi
+phập	41	phập
+chiên	41	chiên
+cọp	41	cọp
+ầm	41	ầm
+soái	40	soái
+bún	40	bún
+thổ	40	thổ
+ran	40	ran
+6	40	sáu
+chém	40	chém
+xưng	40	xưng
+en	40	en
+yi	40	i
+thưởng	40	thưởng
+khớp	40	khớp
+nỏ	40	nỏ
+khêu	40	khêu
+cáo	40	cáo
+túy	40	túy
+sính	40	sính
+queen	40	quyn
+oằn	40	oằn
+đậy	40	đậy
+ngun	40	ngun
+nghêu	40	nghêu
+khàng	40	khàng
+remember	40	ri mem bơ
+cherry	40	che ri
+hắc	39	hắc
+chặn	39	chặn
+rang	39	rang
+barbie	39	ba bi
+giềng	39	giềng
+even	39	i vừn
+mã	39	mã
+thiền	39	thiền
+mân	39	mân
+tỉ	39	tỉ
+seine	39	xên
+úp	39	úp
+vèo	39	vèo
+lát	39	lát
+thoả	39	thỏa
+change	39	chên giờ
+su	39	su
+lẫy	39	lẫy
+quyển	39	quyển
+yến	39	yến
+cồng	39	cồng
+này	39	này
+nạ	39	nạ
+giêsu	39	giêsu
+message	39	me xích
+cưỡng	39	cưỡng
+f.a	39	ép a
+raise	39	rây
+rác	39	rác
+vót	39	vót
+thuyên	39	thuyên
+ngọ	39	ngọ
+2k	39	hai ca
+bekandze	39	bekandze
+tánh	38	tánh
+dạng	38	dạng
+mãn	38	mãn
+nhoè	38	nhòe
+nhâm	38	nhâm
+guitar	38	ghi ta
+ngưòi	38	ngưòi
+pho	38	pho
+vs	38	vê ét xờ
+pikachu	38	pi ca chu
+doing	38	đô inh
+bullshit	38	bun sít
+bá	38	bá
+hừ	38	hừ
+trê	38	trê
+broken	38	bờ rốc cừn
+nới	38	nới
+gầm	38	gầm
+nsao	38	nsao
+nhăng	38	nhăng
+khịa	38	khịa
+úm	38	úm
+vietnames	38	vietnames
+thây	37	thây
+rướm	37	rướm
+tấc	37	tấc
+dì	37	dì
+dồi	37	dồi
+nhộn	37	nhộn
+tấu	37	tấu
+s	37	ét
+ruổi	37	ruổi
+thào	37	thào
+khiết	37	khiết
+side	37	xai
+cốc	37	cốc
+nơ	37	nơ
+rôì	37	rồi
+horse	37	hót
+muội	37	muội
+quậy	37	quậy
+pay	37	pay
+check	37	chếch
+its	37	ít
+díu	37	díu
+sucking	37	sucking
+deep	37	đíp
+nghé	36	nghé
+pa	36	pa
+hoành	36	hoành
+chuộc	36	chuộc
+nhỉ	36	nhỉ
+tuệ	36	tuệ
+giằng	36	giằng
+hù	36	hù
+sấm	36	sấm
+sầm	36	sầm
+khoái	36	khoái
+va	36	va
+once	36	oăn
+đã	36	đã
+xớt	36	xớt
+mic	36	mích
+sô	36	sô
+woo	36	u
+côn	36	côn
+tuyển	36	tuyển
+thép	36	thép
+send	36	xen
+before	36	bi pho
+amazing	36	a mây dinh
+shark	36	sác
+yay	36	giay
+gon	36	gon
+fighting	36	phai tinh
+lollipop	36	lo li póp
+chèn	35	chèn
+m	35	mờ
+liệt	35	liệt
+thing	35	thing
+dẻo	35	dẻo
+trộn	35	trộn
+gả	35	gả
+hia	35	hia
+cọ	35	cọ
+sg	35	ét xờ gờ
+swagger	35	swagger
+shit	35	sít
+sẹo	35	sẹo
+quắt	35	quắt
+vo	35	vo
+nuớc	35	nuớc
+nhút	35	nhút
+hah	35	ha
+fan	35	phan
+left	35	lép
+12	35	mười hai
+ohhh	35	ohhh
+cợt	35	cợt
+pi	35	pi
+did	34	đít
+óng	34	óng
+vòi	34	vòi
+xuê	34	xuê
+chì	34	chì
+oi	34	oi
+noi	34	noi
+vái	34	vái
+mãnh	34	mãnh
+kè	34	kè
+thìa	34	thìa
+nớ	34	nớ
+c	34	xê
+nhem	34	nhem
+tạc	34	tạc
+mọng	34	mọng
+thỉnh	34	thỉnh
+hão	34	hão
+mè	34	mè
+xí	34	xí
+lỏng	34	lỏng
+mường	34	mường
+chội	34	chội
+ng	34	Ngờ
+rễ	34	rễ
+xình	34	xình
+comes	34	côm xờ
+1,2,3	34	một hai ba
+váng	33	váng
+luông	33	luông
+xoài	33	xoài
+hung	33	hung
+đên	33	đên
+nút	33	nút
+instagram	33	in ta gờ ram
+rỗng	33	rỗng
+them	33	them
+sào	33	sào
+lợp	33	lợp
+uy	33	uy
+chửi	33	chửi
+hiệp	33	hiệp
+đãng	33	đãng
+nê	33	nê
+santa	33	xan ta
+sá	33	sá
+ngan	33	ngan
+khèn	33	khèn
+were	33	gua
+hạng	33	hạng
+ain't	33	ên tê
+round	33	rao
+tình	33	tình
+trust	33	trớt
+jean	33	gin
+thoắt	33	thoắt
+nền	32	nền
+đoạt	32	đoạt
+ghìm	32	ghìm
+mèm	32	mèm
+hên	32	hên
+dọn	32	dọn
+vía	32	vía
+giựt	32	giựt
+cuồn	32	cuồn
+nêu	32	nêu
+bạo	32	bạo
+uá	32	úa
+nghiện	32	nghiện
+v	32	vê
+bottom	32	bót từm
+um	32	um
+tắn	32	tắn
+dơ	32	dơ
+đụng	32	đụng
+gone	32	gon
+crying	32	cờ ri inh
+shy	32	si
+into	32	in tu
+tiện	32	tiện
+lóa	32	lóa
+chích	32	chích
+angel	32	en giồ
+voice	32	voi
+would	32	gút
+cỏi	32	cỏi
+came	32	kêm
+trap	32	tráp
+part	32	pát
+tropicana	32	trô pi ca na
+pretty	32	pờ rét ti
+cược	31	cược
+chếch	31	chếch
+cọc	31	cọc
+vỏ	31	vỏ
+hăm	31	hăm
+loà	31	lòa
+9	31	chín
+club	31	cờ lắp
+drama	31	đờ ra ma
+hoi	31	hoi
+xới	31	xới
+d	31	dê
+biêt	31	biêt
+hope	31	hốp
+truth	31	trút
+roi	31	roi
+nhẽo	31	nhẽo
+ngửa	31	ngửa
+eo	31	eo
+end	31	en
+buớc	31	buớc
+bei	31	bây
+land	31	lan
+giắt	31	giắt
+nhũ	31	nhũ
+chãi	31	chãi
+you'll	31	iu lờ lờ
+gato	31	ga tô
+bụt	31	bụt
+nghiệm	31	nghiệm
+50%	31	năm mươi phần trăm
+qui	31	qui
+lowkey	31	lowkey
+hửng	30	hửng
+lượt	30	lượt
+núm	30	núm
+cư	30	cư
+dề	30	dề
+vớ	30	vớ
+cử	30	cử
+wel	30	geo
+chồn	30	chồn
+far	30	pha
+ngố	30	ngố
+nhấn	30	nhấn
+own	30	ôn
+khơmer	30	khơmer
+chọi	30	chọi
+xay	30	xay
+đẳng	30	đẳng
+maybe	30	mây bi
+loáng	30	loáng
+bo	30	bo
+môt	30	môt
+ắng	30	ắng
+ứng	30	ứng
+lỗ	30	lỗ
+ngông	30	ngông
+tuyền	30	tuyền
+quăng	30	quăng
+hiphop	30	híp hốp
+tiktak	30	tiktak
+silent	30	xai lừn
+luồng	29	luồng
+ty	29	ty
+bô	29	bô
+ề	29	ề
+things	29	thinh sờ
+ngớ	29	ngớ
+wait	29	ghuết
+đợt	29	đợt
+đoái	29	đoái
+lệch	29	lệch
+ngai	29	ngai
+kiểm	29	kiểm
+l	29	lờ
+huống	29	huống
+róc	29	róc
+có	29	có
+strong	29	xờ troong
+gậy	29	gậy
+going	29	gâu inh
+lũi	29	lũi
+đĩa	29	đĩa
+sad	29	xát đờ
+walk	29	oác
+rẩy	29	rẩy
+đè	29	đè
+friendzone	29	phờ ren dôn
+xập	29	xập
+trội	29	trội
+dan	29	dan
+mướn	29	mướn
+people	29	pi pồ
+swag	29	goác
+trạm	29	trạm
+kích	28	kích
+luỵ	28	lụy
+đến	28	đến
+dội	28	dội
+quận	28	quận
+mít	28	mít
+rờn	28	rờn
+mồm	28	mồm
+thùa	28	thùa
+lụt	28	lụt
+ngầm	28	ngầm
+tired	28	thai
+chấn	28	chấn
+goes	28	gâu
+alo	28	a lô
+xinê	28	xinê
+dàn	28	dàn
+phô	28	phô
+xâu	28	xâu
+biện	28	biện
+dậu	28	dậu
+ngấm	28	ngấm
+mò	28	mò
+bở	28	bở
+u23	28	u hai mươi ba
+phách	28	phách
+nháp	28	nháp
+đới	28	đới
+nghị	28	nghị
+wa	28	oa
+tem	28	tem
+floor	28	phờ lo rờ
+kẽ	28	kẽ
+feliz	28	phe lít
+navidad	28	na vi đát đờ
+lia	28	lia
+aint	28	ên tờ
+else	28	eo sờ
+simple	28	xim pồ
+avn	28	a vừn
+ghen-ghen-ghen-ghen	28	ghen ghen ghen ghen
+vắn	27	vắn
+đả	27	đả
+dửng	27	dửng
+tok	27	tốc
+words	27	guốt
+slow	27	xờ lâu
+riềng	27	riềng
+thẫm	27	thẫm
+sofa	27	xô pha
+vãi	27	vãi
+hừng	27	hừng
+rầy	27	rầy
+ei	27	ây
+cưa	27	cưa
+hỷ	27	hỷ
+mại	27	mại
+you've	27	iu ve
+fame	27	phêm
+gàng	27	gàng
+xơi	27	xơi
+là	27	là
+vì	27	vì
+tak	27	tắc
+nhịn	27	nhịn
+phớt	27	phớt
+cụm	27	cụm
+tủ	27	tủ
+claus	27	cờ lau xờ
+hí	27	hí
+xát	27	xát
+vietnam	27	việt nam
+rain	27	rên
+rí	27	rí
+liar	27	li a
+bleeding	27	bờ li đinh
+learn	27	lơn
+pop	27	pốp
+wu	27	u
+super	27	xúp pơ
+nghen	27	gen
+jesus	27	giê xu
+flower	27	phờ lao ờ
+set	26	xét
+xăng	26	xăng
+sải	26	sải
+quao	26	quao
+hater	26	hater
+southside	26	xao xai
+rức	26	rức
+bừa	26	bừa
+thia	26	thia
+khùng	26	khùng
+trọi	26	trọi
+tra	26	tra
+khía	26	khía
+late	26	lết
+khom	26	khom
+nãy	26	nãy
+đạm	26	đạm
+thẻ	26	thẻ
+nộ	26	nộ
+khiếng	26	khiếng
+phẩm	26	phẩm
+thí	26	thí
+special	26	pe sồ
+quỵ	26	quỵ
+thận	26	thận
+said	26	xa ít
+pain	26	pên
+mama	26	ma ma
+lùn	26	lùn
+she's	26	si ét sờ
+lọ	26	lọ
+god	26	gót
+tua	26	tua
+múc	26	múc
+lost	26	lốt
+hất	26	hất
+thong	26	thong
+nỗ	26	nỗ
+taxi	26	tắc xi
+gủi	26	gủi
+giếm	26	giếm
+đốn	26	đốn
+nhầy	26	nhầy
+doong	26	doong
+bờm	26	bờm
+freaky	26	phờ rích ki
+hầm	25	hầm
+át	25	át
+cai	25	cai
+nhơn	25	nhơn
+họng	25	họng
+rên	25	rên
+chậu	25	chậu
+sần	25	sần
+thậm	25	thậm
+quai	25	quai
+vớt	25	vớt
+any	25	a ny
+thớt	25	thớt
+coz	25	cô
+ranh	25	ranh
+meet	25	mít
+419	25	bốn trăm mười chín
+enough	25	i náp
+tì	25	tì
+cơi	25	cơi
+lố	25	lố
+chui	25	chui
+liêm	25	liêm
+nhõng	25	nhõng
+sweet	25	xuýt
+inside	25	in xai
+kháng	25	kháng
+tụy	25	tụy
+một	25	một
+khanh	25	khanh
+done	25	đăn
+phau	25	phau
+ye	25	i e
+memories	25	me mơ ri xờ
+might	25	mai tờ
+trầy	25	trầy
+somebody	25	xăm bo đi
+quạ	25	quạ
+ghệ	25	ghệ
+dằm	25	dằm
+tomorrow	25	tơ mo râu
+lượm	25	lượm
+cụt	25	cụt
+showbiz	25	sau bít
+đun	25	đun
+mỵ	25	mỵ
+chước	25	chước
+zài	25	zài
+ống	24	ống
+bục	24	bục
+thán	24	thán
+nghênh	24	nghênh
+dc	24	dê xê
+khiêm	24	khiêm
+hâm	24	hâm
+haha	24	ha ha
+giời	24	giời
+mỡ	24	mỡ
+sâm	24	sâm
+bòng	24	bòng
+thảy	24	thảy
+bích	24	bích
+quẽ	24	quẽ
+uổng	24	uổng
+piece	24	pi
+trữ	24	trữ
+ngưỡng	24	ngưỡng
+f	24	ép
+boys	24	boi xờ
+mean	24	min
+socola	24	xô cô la
+riết	24	riết
+cầy	24	cầy
+wherever	24	goe re vờ
+cute	24	cu te
+breath	24	bờ rét
+reason	24	ri dừn
+đuợc	24	đuợc
+răn	24	răn
+thuần	24	thuần
+makes	24	ma két xờ
+wake	24	guếch
+rải	24	rải
+ứ	24	ứ
+style	24	xờ tai
+had	24	hát
+thank	24	thanh
+hán	24	hán
+nhiệp	24	nhiệp
+nòi	24	nòi
+lúng	24	lúng
+rạ	24	rạ
+knew	24	niu
+born	24	bon
+belong	24	bi long
+cold	24	câu đờ
+yum	24	ăm
+sign	24	xai
+mr.t	24	mờ rờ tê
+monta	24	mon ta
+rollin’	24	rollin
+hoại	23	hoại
+ngụy	23	ngụy
+moment	23	mâu mừn
+woah	23	gô a
+thiệu	23	thiệu
+loneliness	23	lôn li nít
+cốt	23	cốt
+tắp	23	tắp
+truông	23	truông
+quẩy	23	quẩy
+lom	23	lom
+tầu	23	tầu
+vừng	23	vừng
+cũng	23	cũng
+và	23	và
+wrong	23	roong
+lights	23	lai
+chẳn	23	chẳn
+mét	23	mét
+you'd	23	iu dê
+mấp	23	mấp
+tẩy	23	tẩy
+kg	23	ki lô gam
+thought	23	thót
+gạch	23	gạch
+bik	23	bích
+same	23	xam mi
+chance	23	chan
+balo	23	ba lô
+xù	23	xù
+nấp	23	nấp
+chỉnh	23	chỉnh
+mâu	23	mâu
+củng	23	củng
+lài	23	lài
+bách	23	bách
+rích	23	rích
+chử	23	chử
+everyone	23	e vơ ri ôn
+nhí	23	nhí
+je	23	gie
+ka	23	ca
+ôh	23	ôh
+whatever	23	goắt e vờ
+chìa	23	chìa
+lèo	23	lèo
+shakalaka	23	shakalaka
+hưu	22	hưu
+quiero	22	quiero
+dó	22	dó
+pía	22	pía
+điền	22	điền
+reply	22	ri pờ li
+chái	22	chái
+dôi	22	dôi
+tý	22	tý
+r	22	rờ
+pray	22	rây
+trượng	22	trượng
+closer	22	cờ lâu xơ
+thồ	22	thồ
+ngừơi	22	người
+hớn	22	hớn
+hầy	22	hầy
+giờ	22	giờ
+lót	22	lót
+phổ	22	phổ
+đáo	22	đáo
+perché	22	perché
+ace	22	ây
+biết	22	biết
+léo	22	léo
+bass	22	bát sờ
+working	22	guốc kinh
+nực	22	nực
+gió	22	gió
+vạc	22	vạc
+bổ	22	bổ
+hok	22	hốc
+dè	22	dè
+track	22	trách
+nhoáng	22	nhoáng
+giẫm	22	giẫm
+za	22	za
+rúc	22	rúc
+chổ	22	chổ
+cối	22	cối
+qúa	22	quá
+muốt	22	muốt
+chướng	22	chướng
+bitch	22	bít chờ
+hoán	22	hoán
+ốh	22	ốh
+shi	22	si
+60	22	sáu mươi
+ắt	22	ắt
+lưỡng	22	lưỡng
+xó	22	xó
+fever	22	phe vờ
+gần...gần	22	gần gần
+hanaka	22	ha na ka
+sói	21	sói
+ngoe	21	ngoe
+cụi	21	cụi
+line	21	lai
+nống	21	nống
+noise	21	noa
+giồng	21	giồng
+khuê	21	khuê
+dịp	21	dịp
+rèn	21	rèn
+yourself	21	i o xeo
+đệm	21	đệm
+another	21	e na dờ
+ngòai	21	ngoài
+thẩm	21	thẩm
+soát	21	soát
+h	21	giờ
+prider	21	prider
+nhú	21	nhú
+bái	21	bái
+buâng	21	buâng
+bớ	21	bớ
+lẩn	21	lẩn
+phảng	21	phảng
+chư	21	chư
+tight	21	thai
+bứt	21	bứt
+meant	21	mê
+rả	21	rả
+đẵm	21	đẵm
+diêm	21	diêm
+easy	21	i di
+mĩ	21	mĩ
+anyway	21	a ny guây
+giũ	21	giũ
+nghiễm	21	nghiễm
+êhhhhhh	21	êhhhhhh
+chóc	21	chóc
+kén	21	kén
+sound	21	xao đờ
+nung	21	nung
+oke	21	ốc cờ
+xổ	21	xổ
+điếc	21	điếc
+khiển	21	khiển
+gọt	21	gọt
+step	21	xờ tép
+moving	21	mô vinh
+khiêu	21	khiêu
+dí	21	dí
+úng	21	úng
+moi	21	moi
+zalo	21	gia lô
+gi	21	gi
+off	21	ọp
+paradise	21	pa ra đít xờ
+nị	21	nị
+chapi	21	cha pi
+kềnh	21	kềnh
+nguẩy	20	nguẩy
+cặm	20	cặm
+nuột	20	nuột
+đ	20	đ
+móm	20	móm
+khay	20	khay
+giầu	20	giầu
+nháy	20	nháy
+dòm	20	dòm
+has	20	hát sờ
+luận	20	luận
+sạn	20	sạn
+tháo	20	tháo
+pink	20	pinh
+nigga	20	nigga
+low	20	lâu
+khiếp	20	khiếp
+lũng	20	lũng
+mà	20	mà
+để	20	để
+chầu	20	chầu
+head	20	hét
+khỗ	20	khỗ
+zoro	20	dô rô
+shanks	20	sanh sờ
+corazon	20	co ra don
+17	20	mười bảy
+saying	20	xây inh
+qùy	20	quỳ
+nằng	20	nằng
+trau	20	trau
+sướt	20	sướt
+liệm	20	liệm
+dìm	20	dìm
+nẻ	20	nẻ
+trực	20	trực
+khủng	20	khủng
+chòi	20	chòi
+nom	20	nom
+future	20	phiu trờ
+đỏng	20	đỏng
+mương	20	mương
+đẽ	20	đẽ
+ráo	20	ráo
+que-a-du-nao	20	que a du nao
+cheri	20	che ri
+xà	20	xà
+vằng	20	vằng
+23	20	hai mươi ba
+now…let	20	nao lét
+ài	20	ài
+nhái	20	nhái
+thúy	20	thúy
+zai	20	zai
+weisheme	20	weisheme
+tidings	20	tidings
+mợ	20	mợ
+bear	20	be ờ
+internet	20	in tơ nét
+yòu	20	yòu
+hkt	20	hát ca tê
+xạo	19	xạo
+hoạch	19	hoạch
+dể	19	dể
+ngạo	19	ngạo
+gay	19	gay
+ngoặc	19	ngoặc
+toại	19	toại
+mém	19	mém
+hop	19	hóp
+xừ	19	xừ
+nhị	19	nhị
+sưng	19	sưng
+khải	19	khải
+phấp	19	phấp
+nhiễu	19	nhiễu
+material	19	ma tơ ri ồ
+thải	19	thải
+đần	19	đần
+times	19	tham
+café	19	café
+okey	19	okey
+vy	19	vi
+hỉ	19	hỉ
+lose	19	lâu
+mũ	19	mũ
+hoh	19	hô
+rocks	19	róc
+used	19	iu
+hoạ	19	họa
+nhầu	19	nhầu
+understand	19	ăn đơ ten
+vê	19	vê
+phe	19	phe
+ahh	19	a
+ễnh	19	ễnh
+phờ	19	phờ
+thun	19	thun
+nhao	19	nhao
+đừ	19	đừ
+friends	19	phờ ren
+bip	19	bíp
+rãi	19	rãi
+story	19	xờ to ri
+rứa	19	rứa
+rạp	19	rạp
+luồn	19	luồn
+sạm	19	sạm
+rày	19	rày
+hair	19	he
+mổi	19	mổi
+đắt	19	đắt
+start	19	xờ tát
+lủi	19	lủi
+telling	19	teo linh
+wowwo	19	wowwo
+phèo	19	phèo
+file	19	phai
+giving	19	ghi vinh
+diva	19	đi va
+bíêt	19	biết
+pour	19	pua
+les	19	lét
+trợt	18	trợt
+nhó	18	nhó
+điếng	18	điếng
+cưỡi	18	cưỡi
+watch	18	oắt chờ
+mr	18	mờ rờ
+2010	18	hai nghìn không trăm mười
+brand	18	bờ ran
+rần	18	rần
+recognize	18	ri coóc nai
+búi	18	búi
+big	18	bích
+hường	18	hường
+sục	18	sục
+viển	18	viển
+cữ	18	cữ
+nhiu	18	nhiu
+nhũng	18	nhũng
+thối	18	thối
+triển	18	triển
+rượt	18	rượt
+lệnh	18	lệnh
+rôi	18	rôi
+chững	18	chững
+rồ	18	rồ
+tước	18	tước
+dạn	18	dạn
+who's	18	vê kép hát ô ét
+cự	18	cự
+với	18	với
+naa	18	na
+liệng	18	liệng
+cỗ	18	cỗ
+uhm	18	ừ
+lẽn	18	lẽn
+123	18	một trăm hai mươi ba
+quế	18	quế
+lùm	18	lùm
+tụm	18	tụm
+nick	18	ních
+phãi	18	phãi
+lừ	18	lừ
+que-que	18	que que
+beo	18	beo
+shouldn't	18	shouldn tê
+phàn	18	phàn
+nhọ	18	nhọ
+haỵ	18	hạy
+luyên	18	luyên
+knows	18	nâu
+thím	18	thím
+chạp	18	chạp
+nhốn	18	nhốn
+lala	18	la la
+psycho	18	xai cầu
+gummy	18	găm mi
+antoneus	18	an tôn ớt xờ
+thoái	18	thoái
+miao	18	mi ao
+sol	18	xon
+nupakachi	18	nupakachi
+khăng	17	khăng
+found	17	phao
+yang	17	ang
+fucking	17	phúc kinh
+tiêm	17	tiêm
+toang	17	toang
+tèo	17	tèo
+guess	17	ghét
+dau	17	dau
+muà	17	mùa
+talking	17	thoóc kinh
+asian	17	a xi an
+láo	17	láo
+vẵn	17	vẵn
+ngày	17	ngày
+gềnh	17	gềnh
+trờ	17	trờ
+bướng	17	bướng
+we'll	17	uy lờ lờ
+banh	17	banh
+rảnh	17	rảnh
+brook	17	bờ rúc
+tỳ	17	tỳ
+chòng	17	chòng
+shining	17	si ninh
+ne	17	ne
+days	17	đây
+măt	17	măt
+tried	17	tri đờ
+i'd	17	ai dê
+hip	17	híp
+lẫm	17	lẫm
+vâu	17	vâu
+chip	17	chíp
+phan	17	phan
+thía	17	thía
+rùa	17	rùa
+ghim	17	ghim
+bẽn	17	bẽn
+nần	17	nần
+đát	17	đát
+giương	17	giương
+bim	17	bim
+đắc	17	đắc
+vision	17	vi dừn
+hopes	17	hốp
+mủi	17	mủi
+sha	17	sa
+khư	17	khư
+drunk	17	đờ răng
+phải	17	phải
+piano	17	pi a nô
+rở	17	rở
+bợ	17	bợ
+lạng	17	lạng
+dẩu	17	dẩu
+bỡi	17	bỡi
+sometimes	17	xăm tham xờ
+bin	17	bin
+huỳnh	17	huỳnh
+plz	17	pê lờ zét
+đành	17	đành
+max	17	mắc
+romeo	17	rô meo
+b-b-b-busy	17	bê bê bê bu xi
+coco	17	cô cô
+jambo	17	jambo
+dóm	16	dóm
+kham	16	kham
+bự	16	bự
+khán	16	khán
+ver	16	vơ
+pasito	16	pasito
+poquito	16	poquito
+chụp	16	chụp
+air	16	e
+bọ	16	bọ
+vấy	16	vấy
+đùm	16	đùm
+tuỳ	16	tùy
+cúm	16	cúm
+house	16	hao
+nóc	16	nóc
+quắc	16	quắc
+x	16	ích
+matter	16	mát tơ
+nhớ	16	nhớ
+haters	16	ha tơ sờ
+sút	16	sút
+dim	16	dim
+binz	16	bin
+single	16	xinh gồ
+lỏi	16	lỏi
+thung	16	thung
+nói	16	nói
+xỉ	16	xỉ
+door	16	đo
+hủ	16	hủ
+niết	16	niết
+truy	16	truy
+thụ	16	thụ
+catch	16	cát chờ
+quẫy	16	quẫy
+nhún	16	nhún
+cọng	16	cọng
+bêu	16	bêu
+guộc	16	guộc
+khì	16	khì
+cộ	16	cộ
+gu	16	gu
+dark	16	đác
+papa	16	pa pa
+tuồng	16	tuồng
+rá	16	rá
+rám	16	rám
+ập	16	ập
+nhiều	16	nhiều
+yeu	16	yêu
+that’s	16	that s
+ngạc	16	ngạc
+xửa	16	xửa
+ngáo	16	ngáo
+mình	16	mình
+nào	16	nào
+nem	16	nem
+bột	16	bột
+cuống	16	cuống
+kathy	16	ca thi
+gióng	16	gióng
+pina	16	pi na
+colada	16	cô la đa
+cut	16	cắt
+hm	16	hát mờ
+1234	16	một nghìn hai trăm ba mươi tư
+what’s	16	what s
+smoothie	16	sờ mút thi
+chíp	16	chíp
+đớp	16	đớp
+pì	16	pì
+et	16	ét
+colors	16	ca lờ sờ
+rợ	16	rợ
+thôi-thôi-thôi	16	thôi thôi thôi
+ddu-bi-ddu	16	đư bi đư
+pti	16	pi ti ai
+xĩu	15	xĩu
+dăng	15	dăng
+shopping	15	sóp pinh
+chỉ	15	chỉ
+bít	15	bít
+dậm	15	dậm
+despacito	15	đét sờ pa xi tô
+bright	15	bờ rai
+chài	15	chài
+inbox	15	in bóc
+đai	15	đai
+bigdaddy	15	bích đát đi
+gồm	15	gồm
+vổ	15	vổ
+quất	15	quất
+ké	15	ké
+lún	15	lún
+cán	15	cán
+nhác	15	nhác
+full	15	phun
+ngồ	15	ngồ
+sẽ	15	sẽ
+whoo	15	gu
+víu	15	víu
+tùm	15	tùm
+twice	15	bo
+sây	15	sây
+perfect	15	pơ phếch
+tuj	15	tuj
+lun	15	lun
+nghét	15	nghét
+chọe	15	chọe
+mơi	15	mơi
+pin	15	pin
+under	15	ăn đơ
+nảy	15	nảy
+happiness	15	hép pi nít
+thình	15	thình
+she’s	15	she s
+iên	15	iên
+nhíu	15	nhíu
+moon	15	mun
+thinking	15	thinh kinh
+dê	15	dê
+được	15	được
+represent	15	represent
+you’ll	15	you ll
+ở	15	ở
+lỳ	15	lỳ
+hệt	15	hệt
+biêng	15	biêng
+cúp	15	cúp
+micro	15	mai cờ rô
+hãm	15	hãm
+niền	15	niền
+củi	15	củi
+cẩm	15	cẩm
+gột	15	gột
+gio	15	gio
+excuse	15	ích kiu
+babeeee	15	babeeee
+mội	15	mội
+arms	15	am xờ
+nhừ	15	nhừ
+wakeup	15	guếch ắp
+vest	15	vét
+click	15	cờ lích
+phì	15	phì
+nhào	15	nhào
+ninja	15	nin gia
+nhây	15	nhây
+hallo	15	ha lô
+halloween	15	ha lô uyn
+mốc	15	mốc
+anything	15	an ni thinh
+hiêu	15	hiêu
+blow	15	bờ lâu
+hảy	15	hảy
+phối	15	phối
+promise	15	rô mít sờ
+trập	15	trập
+kin	15	kin
+mịch	15	mịch
+khui	15	khui
+nầy	15	nầy
+ạ	15	ạ
+everytime	15	e vơ ri tham
+ron	15	ron
+tron	15	tron
+treasure	15	tre dờ
+love﻿	15	lớp
+awaken	15	a goa cừn
+aizo	15	aizo
+yaong	15	yaong
+elle	15	eo
+zô	15	zô
+dé	15	dé
+yóu	15	yóu
+sậu	14	sậu
+lác	14	lác
+về	14	về
+huề	14	huề
+ngiêng	14	ngiêng
+sin	14	sin
+tus	14	tớt xờ
+tv	14	tê vê
+khơ	14	khơ
+lược	14	lược
+bầm	14	bầm
+sure	14	sua
+ỡ	14	ỡ
+bing	14	binh
+hoả	14	hỏa
+khẩn	14	khẩn
+thụt	14	thụt
+nạp	14	nạp
+sory	14	xô ri
+xoè	14	xòe
+quằn	14	quằn
+tíc	14	tíc
+w	14	vê kép
+p	14	pê
+rãnh	14	rãnh
+trying	14	try inh
+cali	14	ca li
+sững	14	sững
+bingo	14	binh gô
+gán	14	gán
+lại	14	lại
+những	14	những
+trù	14	trù
+xuây	14	xuây
+dứa	14	dứa
+ngươì	14	người
+till	14	tiu
+hoảng	14	hoảng
+khắng	14	khắng
+ghẹo	14	ghẹo
+ghiền	14	ghiền
+sún	14	sún
+chành	14	chành
+doesn't	14	doesn tê
+nhứt	14	nhứt
+until	14	ăn tiu
+xoăn	14	xoăn
+25	14	hai mươi lăm
+thằm	14	thằm
+trừng	14	trừng
+artist	14	a tít
+dợ	14	dợ
+anti-love	14	an ti lớp
+champions	14	chem pi ừn
+volunteer	14	vô lăn tia
+sight	14	xai tờ
+tivi	14	ti vi
+nice	14	nai
+thuẫn	14	thuẫn
+nặn	14	nặn
+đưng	14	đưng
+huyện	14	huyện
+four	14	pho
+breakup	14	bờ rếch ắp
+hễ	14	hễ
+heaven	14	he vừn
+goof	14	goof
+ủa	14	ủa
+anywhere	14	en ni goe
+là:	14	là
+mãi	14	mãi
+cả	14	cả
+rềnh	14	rềnh
+cỏn	14	cỏn
+quẹo	14	quẹo
+nhiễm	14	nhiễm
+niêm	14	niêm
+lẹ	14	lẹ
+holla	14	holla
+cáp	14	cáp
+điếm	14	điếm
+sốt	14	sốt
+trouble	14	tru bồ
+em/anh	14	em , anh
+woh	14	woh
+pieces	14	pi xờ
+ngách	14	ngách
+sole	14	xôn
+trại	14	trại
+15	14	mười lăm
+cinema	14	xi ne ma
+rốt	14	rốt
+shinichi	14	si ni chi
+their	14	thi
+cried	14	cờ rít đờ
+hee	14	hi
+type	14	tai
+become	14	bi căm
+sabo	14	xa bô
+nạt	14	nạt
+khước	14	khước
+yêu	14	yêu
+không	14	không
+nau	14	nau
+dans	14	đan
+mết	14	mết
+cằm	14	cằm
+let’em	14	let em
+kno	14	nô
+heymambo	14	heymambo
+rán	13	rán
+kháo	13	kháo
+chĩ	13	chĩ
+nã	13	nã
+docter	13	đóc tờ
+khổng	13	khổng
+rui	13	rui
+chay	13	chay
+tear	13	tia
+bới	13	bới
+tuấn	13	tuấn
+idol	13	ai đồ
+nhích	13	nhích
+many	13	man ni
+vàm	13	vàm
+cụng	13	cụng
+toà	13	tòa
+thám	13	thám
+chuồng	13	chuồng
+q	13	qui
+damn	13	đem
+thuỳ	13	thùy
+act	13	ách tờ
+mền	13	mền
+tong	13	tong
+gày	13	gày
+tị	13	tị
+đáu	13	đáu
+lòng	13	lòng
+nang	13	nang
+sồng	13	sồng
+bẩn	13	bẩn
+woa	13	goa
+eye	13	ai
+khỉ	13	khỉ
+neol	13	neol
+nghiến	13	nghiến
+xiềng	13	xiềng
+bung	13	bung
+vặn	13	vặn
+dốt	13	dốt
+stars	13	ta
+along	13	ơ loong
+known	13	nôn
+dá	13	dá
+giò	13	giò
+took	13	túc
+dấp	13	dấp
+cỡi	13	cỡi
+úh	13	úh
+tuyên	13	tuyên
+100%	13	một trăm phần trăm
+ruồi	13	ruồi
+khuy	13	khuy
+loud	13	lao
+nhận	13	nhận
+mai....sau	13	mai sau
+sẩy	13	sẩy
+mói	13	mói
+flick	13	phờ lích
+xiên	13	xiên
+sạ	13	sạ
+wont	13	goăn tờ
+đủng	13	đủng
+mani	13	ma ni
+empty	13	em pờ ti
+calling	13	can linh
+rập	13	rập
+rình	13	rình
+shout	13	sút
+wanbi	13	oan bi
+ừh	13	ừh
+trổi	13	trổi
+huê	13	huê
+hó	13	hó
+ngống	13	ngống
+mao	13	mao
+rầm	13	rầm
+d....i....s....c....o	13	đê ai ét xê o
+khuấy	13	khuấy
+ngóc	13	ngóc
+morning	13	mo ninh
+we’ll	13	we ll
+tổng	13	tổng
+bitches	13	bít chờ
+lovely	13	láp li
+dờn	13	dờn
+chat	13	chát
+throwing	13	thờ râu inh
+ha-ha-ha-ha-ha-ha-ha-ha-ha-ha	13	ha ha ha ha ha ha ha ha ha ha
+lèn	13	lèn
+chun	13	chun
+đìa	13	đìa
+êy	13	êy
+nách	13	nách
+winter	13	guyn tơ
+chò	13	chò
+whatcha	13	goắt cha
+nhược	13	nhược
+dear	13	đơ
+microphone	13	mai cờ rô phôn
+power	13	pao ơ
+lặc	13	lặc
+oh...oh	13	ô ô
+tayata	13	tayata
+maha	13	ma ha
+nhông	13	nhông
+beijin	13	beijin
+oooooo	13	oooooo
+súa	12	súa
+khẳng	12	khẳng
+chum	12	chum
+ngữa	12	ngữa
+black	12	bờ lách
+với...chồng	12	với chồng
+thếch	12	thếch
+1000	12	một nghìn
+city	12	xi ty
+huu	12	hưu
+góa	12	góa
+hoằng	12	hoằng
+nhuần	12	nhuần
+ballad	12	ba lát
+imma	12	im ma
+huấn	12	huấn
+herry	12	he ri
+mewto	12	mewto
+quýnh	12	quýnh
+ngòi	12	ngòi
+rồi	12	rồi
+such	12	xu chờ
+xúng	12	xúng
+xính	12	xính
+thich	12	thịch
+doanh	12	doanh
+đẩu	12	đẩu
+safe	12	xếp
+pick	12	pích
+afraid	12	ơ phờ rét
+kaido	12	kaido
+lối	12	lối
+đếch	12	đếch
+surprise	12	xơ pờ rai sờ
+hỗn	12	hỗn
+nhếch	12	nhếch
+xòa	12	xòa
+lúm	12	lúm
+xoàn	12	xoàn
+săm	12	săm
+everynight	12	everynight
+ừm	12	ừm
+nuộc	12	nuộc
+ghita	12	ghi ta
+ơi...cùng	12	ơi cùng
+xụân	12	xuận
+he's	12	he ét
+ohhhh	12	ohhhh
+l.o.v.e	12	lít o vê e
+gvr	12	gờ vê rờ
+kiêng	12	kiêng
+fight	12	phai tờ
+nói...và	12	nói và
+anh...mong	12	anh mong
+cười...oh	12	cười ô
+thô	12	thô
+đờ	12	đờ
+giỏ	12	giỏ
+vượn	12	vượn
+rớm	12	rớm
+đảnh	12	đảnh
+nhàm	12	nhàm
+khắt	12	khắt
+thàng	12	thàng
+tẹo	12	tẹo
+conan	12	cô nan
+bẹo	12	bẹo
+gầu	12	gầu
+smoke	12	xờ mốc cờ
+chấp	12	chấp
+smartphone	12	xờ mát phôn
+triệt	12	triệt
+flash	12	phờ lát
+que-a-du	12	que a du
+119	12	một trăm mười chín
+kill	12	kiu
+quẻ	12	quẻ
+phỉ	12	phỉ
+drop	12	đờ róp
+chõ	12	chõ
+pow	12	pâu
+aah	12	aah
+dược	12	dược
+lives	12	líp sờ
+email	12	i meo
+hủi	12	hủi
+tiêc	12	tiêc
+xạt	12	xạt
+attention	12	át ten sừn
+quài	12	quài
+gữi	12	gữi
+know…girl	12	nâu gơn
+warm	12	goam
+khống	12	khống
+dà	12	dà
+bô-lê-rô	12	bô lê rô
+ki	12	ki
+2000	12	hai nghìn
+trog	12	tro
+ươc	12	ươc
+yesterday	12	i ét xờ tơ đây
+wao	12	gao
+tửu	12	tửu
+quite	12	quai
+ơi....anh	12	ơi anh
+kiwi	12	ki uy
+nháo	12	nháo
+hơĩ	12	hỡi
+italiano	12	i ta li a nô
+menu	12	me niu
+nhạn	12	nhạn
+giỗ	12	giỗ
+winter's	12	uyn tơ ét xờ
+zone	12	dôn
+thèo	12	thèo
+forgive	12	pho ghi
+hamadisa	12	hamadisa
+ford	12	pho
+khray	12	khray
+aw	12	o
+wáy	12	wáy
+sùttháay	12	sùttháay
+cùup	12	cùup
+ơi..mau	12	ơi mau
+wide	12	goai đờ
+ròn	12	ròn
+depression	12	đe rét xừn
+bounce	12	bao sờ
+rồi	12	rồi
+để	12	để
+chẳng	12	chẳng
+dúi	12	dúi
+doremon	12	đo ri mon
+ồm	12	ồm
+xiao	12	xi ao
+nưa	12	nưa
+11	12	mười một
+nous	12	nớt
+est	12	ét xờ tờ
+huha	12	huha
+ghẻ	12	ghẻ
+ngò	12	ngò
+ling	12	linh
+mon	12	mon
+ai'm	12	ai mét
+tết...ông	12	tết ông
+mofo	12	mofo
+mamboitaliano	12	mamboitaliano
+hiều	11	hiều
+started	11	xờ tát tựt
+đác	11	đác
+tải	11	tải
+nghĩ	11	nghĩ
+nòng	11	nòng
+hotgirl	11	hót gơn
+boss	11	bót
+gạn	11	gạn
+th	11	Thờ
+honda	11	hon đa
+pride	11	pờ rai
+vuột	11	vuột
+cang	11	cang
+el	11	eo
+mami	11	ma mi
+yết	11	yết
+cạp	11	cạp
+lóe	11	lóe
+100	11	một trăm
+dealer	11	đi lơ
+cã	11	cã
+playing	11	lây inh
+ngụp	11	ngụp
+believing	11	bi li vinh
+ngoạc	11	ngoạc
+melody	11	me lơ đi
+re-pe-pe-peat	11	re pe pe pít
+rua	11	rua
+pokemon	11	pô kê mon
+mọn	11	mọn
+prospero	11	rô pơ rô
+felicidad	11	felicidad
+kung	11	cung
+status	11	xờ ta tút
+tông	11	tông
+giọt	11	giọt
+hám	11	hám
+young	11	i ăng
+em:	11	em
+though	11	thâu
+nami	11	na mi
+usopp	11	usopp
+dr	11	đê rờ
+hòng	11	hòng
+killing	11	kiêu linh
+changed	11	chên đờ
+distance	11	đít tan
+bết	11	bết
+chùi	11	chùi
+ngột	11	ngột
+tảng	11	tảng
+gông	11	gông
+lãi	11	lãi
+tic	11	tích
+past	11	pát tờ
+lià	11	lìa
+karma	11	ca ma
+xảo	11	xảo
+virus	11	vi rút
+ngoẳnh	11	ngoẳnh
+rưỡi	11	rưỡi
+qúy	11	quý
+cáu	11	cáu
+cóng	11	cóng
+thỏm	11	thỏm
+betu	11	betu
+ay	11	dây
+him	11	him
+thỉ	11	thỉ
+xỏa	11	xỏa
+hide	11	hai đờ
+khuyến	11	khuyến
+holding	11	hâu đinh
+bịu	11	bịu
+lổ	11	lổ
+máng	11	máng
+đươc	11	đươc
+tòng	11	tòng
+thiêm	11	thiêm
+nạng	11	nạng
+trích	11	trích
+dasi	11	dasi
+&	11	&
+leaving	11	li vinh
+rappers	11	rappers
+cocain	11	cô kên
+shut	11	sắt
+gài	11	gài
+bả	11	bả
+catwalk	11	cát goắc
+sỉ	11	sỉ
+web	11	oép
+luna	11	lu na
+mìn	11	mìn
+hén	11	hén
+gettin	11	gettin
+đổng	11	đổng
+country	11	căn tri
+nothing's	11	nô thinh ét
+nights	11	nai
+rén	11	rén
+hùa	11	hùa
+ground	11	gờ rao đờ
+qua...ok...ok	11	qua ô kê ô kê
+sạc	11	sạc
+seems	11	xim
+high-a-a-yeah	11	hai a a i ê
+angels	11	en giồ sờ
+súc	11	súc
+hoạt	11	hoạt
+resist	11	ri xít sờ
+enjoy	11	in gioi
+uớt	11	uớt
+lỡi	11	lỡi
+nịnh	11	nịnh
+soan	11	soan
+switch	11	xuýt
+peace	11	pít
+hoooo	11	hoooo
+phổi	11	phổi
+sapa	11	xa pa
+rị	11	rị
+vietnamese	11	việt nam mi xờ
+ùm	11	ùm
+ku	11	cu
+pokémon	11	pokémon
+il	11	i lờ
+girl...oh	11	gơn ô
+ní	11	ní
+rien	11	ri ừn
+zuka	11	zuka
+tattoos	11	tattoos
+phở	10	phở
+mún	10	mún
+stupid	10	xờ tiu pít
+vạch	10	vạch
+khoanh	10	khoanh
+dìa	10	dìa
+nos	10	nô sờ
+icon	10	i con
+đùi	10	đùi
+dizz	10	dizz
+nhìêu	10	nhiều
+vù	10	vù
+geu	10	geu
+post	10	pốt tờ
+ngái	10	ngái
+ngêu	10	ngêu
+chực	10	chực
+kiêm	10	kiêm
+z	10	zét
+rùi	10	rùi
+hustler	10	hớt lơ
+mẩu	10	mẩu
+hero	10	he rô
+ánh	10	ánh
+từng	10	từng
+muốn	10	muốn
+tạt	10	tạt
+candles	10	can đồ sờ
+soa	10	soa
+tróc	10	tróc
+ngành	10	ngành
+500	10	năm trăm
+quằng	10	quằng
+boo	10	bu
+gắp	10	gắp
+bậy	10	bậy
+kiền	10	kiền
+chopper	10	chóp pơ
+robin	10	rô bin
+cup	10	cúp
+ngáy	10	ngáy
+còn	10	còn
+car	10	ca
+bitten	10	bít từn
+tiệt	10	tiệt
+chuộng	10	chuộng
+breathe	10	bờ rét
+blood	10	bờ lót
+chơm	10	chơm
+sụt	10	sụt
+đơ	10	đơ
+justatee	10	giớt tơ ti
+dán	10	dán
+where's	10	goe ét xờ
+shang	10	sang
+mimosa	10	mi mô xa
+triết	10	triết
+cookie	10	cúc ki
+hóng	10	hóng
+chổng	10	chổng
+xối	10	xối
+xoải	10	xoải
+gém	10	gém
+giối	10	giối
+girls	10	gơn
+vain	10	vên
+tiá	10	tía
+kỵ	10	kỵ
+trớn	10	trớn
+sea	10	xi
+rủng	10	rủng
+điểu	10	điểu
+êhhhhhhh	10	êhhhhhhh
+chơt	10	chơt
+throw	10	thờ râu
+help	10	hép
+superman	10	xiu pơ men
+đổi....lòng	10	đổi lòng
+thành	10	thành
+room	10	rum
+fell	10	pheo
+rồỉ	10	rổi
+khoản	10	khoản
+these	10	dơ sờ
+tóm	10	tóm
+behind	10	bi hai
+business	10	bi di nít
+sà	10	sà
+midside	10	midside
+khẻ	10	khẻ
+phái	10	phái
+unmatched	10	un mát chờ
+burn	10	bơn
+nghó	10	nghó
+14	10	mười bốn
+sồi	10	sồi
+nghào	10	nghào
+nể	10	nể
+tề	10	tề
+19	10	mười chín
+phạ	10	phạ
+gold	10	gôn
+độn	10	độn
+one-horse	10	oăn hót
+awake	10	a goa kê
+tóe	10	tóe
+gân	10	gân
+whole	10	guôn
+theft	10	dơ phờ
+bua	10	bua
+đàm	10	đàm
+tếu	10	tếu
+phay	10	phay
+360mobi	10	ba trăm sáu mươi mờ o bê i
+gièm	10	gièm
+hèo	10	hèo
+bón	10	bón
+mé	10	mé
+3q	10	ba quy
+nõn	10	nõn
+circle	10	xơ cồ
+ta...áh	10	ta áh
+em...yeah	10	em i ê
+thoăn	10	thoăn
+winners	10	guyn nơ
+dến	10	dến
+sigiliano	10	sigiliano
+nguệch	10	nguệch
+ladies	10	la đi
+me-n-u	10	me nờ u
+mra	10	em ra
+lơn	10	lơn
+sấp	10	sấp
+rông	10	rông
+phiếu	10	phiếu
+northside	10	northside
+nana	10	na na
+địu	10	địu
+thật	10	thật
+dối	10	dối
+giờ	10	giờ
+gâp	10	gâp
+rịa	10	rịa
+step2fame	10	step hai ép a mờ e
+thì	10	thì
+know-ow-ow	10	nâu âu âu
+hòai	10	hoài
+sammisa	10	sammisa
+his	10	hít
+nomore	10	nomore
+mes	10	mét sờ
+sana-i	10	xa na ai
+gang-namseutayil	10	gang namseutayil
+bùôn	10	buồn
+hùi	10	hùi
+ýi	10	ýi
+breathless	10	bờ rét lét sờ
+c’mon	10	c mon
+oe	10	oe
+bẹ	9	bẹ
+lút	9	lút
+lip	9	líp
+saranghae	9	saranghae
+chẳng	9	chẳng
+đon	9	đon
+ém	9	ém
+sunrise	9	xăn rai
+para	9	pa ra
+vức	9	vức
+lyric	9	li rích
+gảy	9	gảy
+each	9	ích chờ
+other	9	a dờ
+destiny	9	đét ti ni
+bikini	9	bi ki ni
+lốp	9	lốp
+bễ	9	bễ
+nkư	9	nkư
+xỏ	9	xỏ
+roger	9	rô giơ
+waste	9	goát sờ
+saigon	9	sài gòn
+dẳng	9	dẳng
+lum	9	lum
+nán	9	nán
+buồn	9	buồn
+hiểu	9	hiểu
+told	9	tôn
+giong	9	giong
+ngìn	9	ngìn
+nghễ	9	nghễ
+boyfriend	9	boi phờ ren
+what's	9	oắt ét sờ
+singing	9	xing ghinh
+vánh	9	vánh
+40	9	bốn mươi
+portgas	9	po gát
+losing	9	lu dinh
+hồn	9	hồn
+sứt	9	sứt
+anh:	9	anh
+lồi	9	lồi
+múi	9	múi
+dỡn	9	dỡn
+thêng	9	thêng
+naneun	9	naneun
+gui	9	gui
+bõ	9	bõ
+bet	9	bét
+blind	9	bờ lai
+nasa	9	na xa
+tee	9	ti
+nứơc	9	nước
+xị	9	xị
+mun	9	mun
+xạ	9	xạ
+chòm	9	chòm
+pass	9	pát
+overnight	9	âu vờ nai
+quấy	9	quấy
+nobita	9	nô bi ta
+lips	9	líp xờ
+hới	9	hới
+clouds	9	cờ lao xờ
+chòe	9	chòe
+miếu	9	miếu
+chĩu	9	chĩu
+thò	9	thò
+ngoắt	9	ngoắt
+lazer	9	la dơ
+loè	9	lòe
+ã	9	ã
+ịt	9	ịt
+dằng	9	dằng
+didn't	9	didn tê
+felt	9	pheo
+ngụm	9	ngụm
+bốt	9	bốt
+ask	9	át xờ
+guy	9	guy
+bú	9	bú
+gùi	9	gùi
+nhảm	9	nhảm
+wên	9	wên
+hum	9	hum
+dụ	9	dụ
+must	9	mớt sờ
+belive	9	bi lai vờ
+ơi...ơi	9	ơi ơi
+kông	9	kông
+apolo	9	a pô lô
+22	9	hai mươi hai
+carat	9	ca rát
+lức	9	lức
+nhét	9	nhét
+phun	9	phun
+com	9	com
+huỷ	9	hủy
+ướm	9	ướm
+ngoáy	9	ngoáy
+bout	9	bút
+cũ...thì	9	cũ thì
+rollin	9	rollin
+makin	9	ma kin
+thats	9	dát
+răm	9	răm
+tiển	9	tiển
+ooohh	9	ooohh
+neighbour	9	neighbour
+ứớc	9	ước
+bẩm	9	bẩm
+sâu...phải	9	sâu phải
+lâu,nay	9	lâu nay
+huýt	9	huýt
+ji	9	gi
+kíp	9	kíp
+weed	9	goét
+dreaming	9	rim minh
+they're	9	dây re
+dzách	9	dzách
+wonder	9	goăn đờ
+nhửng	9	nhửng
+xuân﻿	9	xuân
+cross	9	cờ rót
+mẫn	9	mẫn
+gáng	9	gáng
+mãi...hơ...ơ	9	mãi hơ ơ
+cẳng	9	cẳng
+nhiếp	9	nhiếp
+thât	9	thât
+càfé	9	càfé
+nui	9	nui
+sê	9	sê
+babygirl	9	babygirl
+price	9	pờ rai sờ
+kà	9	kà
+pensée	9	pensée
+vằn	9	vằn
+we...we...we	9	uy uy guy
+rep	9	rép
+nứa	9	nứa
+meow	9	mi âu
+piêu	9	piêu
+chằn	9	chằn
+zhong	9	doong
+being	9	be inh
+devil	9	đê vin
+sarangheyo	9	sarangheyo
+marvin	9	ma vin
+gaye	9	gây
+lambada	9	lam ba đa
+rumba	9	rum ba
+quác	9	quác
+quạc	9	quạc
+pas	9	pa
+rarirureroro	9	rarirureroro
+radza	9	radza
+samudgate	9	samudgate
+soha	9	xô ha
+gimme	9	ghim mờ
+fighter	9	phai tơ
+mistake	9	mít tếch
+raining	8	rên ninh
+phèn	8	phèn
+vú	8	vú
+rốn	8	rốn
+chồm	8	chồm
+sube	8	súp
+es	8	e ét
+esa	8	ê xa
+suave	8	suave
+suavecito	8	suavecito
+vamos	8	va mốt
+pegando	8	pegando
+clause	8	cờ lau xờ
+toy	8	toi
+nong	8	nong
+quát	8	quát
+thế..(rồi	8	thế rồi
+vảo	8	vảo
+andree	8	an rê
+chiềm	8	chiềm
+whisky	8	guýt ki
+stress	8	xờ trét
+quit	8	quit
+đòan	8	đoàn
+quầy	8	quầy
+place	8	pờ lết xờ
+phết	8	phết
+khướt	8	khướt
+cặn	8	cặn
+thệ	8	thệ
+chờ	8	chờ
+covid	8	cô vít
+bout’	8	bout
+bẩy	8	bẩy
+those	8	dâu
+mistakes	8	mít tếch
+hundred	8	hăm đờ rớt
+vạng	8	vạng
+giỗi	8	giỗi
+bóc	8	bóc
+hờn	8	hờn
+24h	8	hai mươi tư giờ
+giất	8	giất
+oh...just	8	ô giớt
+tuân	8	tuân
+huyễn	8	huyễn
+fear	8	phia
+gát	8	gát
+khẹ	8	khẹ
+khét	8	khét
+vọng	8	vọng
+sặc	8	sặc
+sanji	8	xan ji
+franky	8	phờ ranh ki
+nẵng	8	nẵng
+sent	8	xen
+note	8	nốt
+hight	8	hai tờ
+above	8	a bô
+anh,anh	8	anh anh
+dawn	8	đon
+mép	8	mép
+câu...nói	8	câu nói
+toc	8	tóc
+rổ	8	rổ
+lock	8	lóc
+24	8	hai mươi tư
+bịa	8	bịa
+mọt	8	mọt
+u're	8	u re
+who’s	8	who s
+killah	8	kiu la
+gôm	8	gôm
+gôn	8	gôn
+suôn	8	suôn
+selfie	8	xeo phi
+tiding	8	tiding
+khó,mai	8	khó mai
+diss	8	diss
+quăn	8	quăn
+chộp	8	chộp
+coffee	8	cà phê
+broly	8	bờ rô ly
+wave	8	guây
+white	8	oai
+xóc	8	xóc
+thủơ	8	thuở
+mêng	8	mêng
+chỏ	8	chỏ
+mút	8	mút
+ồh	8	ồh
+thảng	8	thảng
+rú	8	rú
+trẫm	8	trẫm
+đúa	8	đúa
+dận	8	dận
+ave	8	ây
+núp	8	núp
+đep	8	đep
+hotboy	8	hót boi
+nakroth	8	nakroth
+sảnh	8	sảnh
+fallen	8	pha lừn
+dọa	8	dọa
+u,yes	8	u i ét sờ
+tẩm	8	tẩm
+neighbor	8	ni bo
+ohhhhh	8	ohhhhh
+eee	8	eee
+moves	8	mu vờ xờ
+nae	8	ne
+jin	8	gin
+đút	8	đút
+trịnh	8	trịnh
+hotgirls	8	hót gơn xờ
+thừng	8	thừng
+đừng	8	đừng
+chạy	8	chạy
+tự	8	tự
+kẻ	8	kẻ
+arsoleda	8	arsoleda
+soleda	8	soleda
+thễ	8	thễ
+i’ve	8	i ve
+zero9	8	zero chín
+quờ	8	quờ
+double	8	đắp bồ
+trend	8	chen
+insta	8	in sờ ta
+hoắc	8	hoắc
+lảm	8	lảm
+rich	8	rích
+vinja	8	vin da
+shoes	8	su
+hahahaha	8	hahahaha
+kip	8	kíp
+lình	8	lình
+beside	8	be xai
+cựa	8	cựa
+viện	8	viện
+already	8	eo rét đi
+ngoéo	8	ngoéo
+quê,ai	8	quê ai
+dững	8	dững
+steal	8	tiu
+riêu	8	riêu
+gìơ	8	giờ
+gụi	8	gụi
+ẵm	8	ẵm
+bùa	8	bùa
+doin	8	đô in
+pằng	8	pằng
+gơỉ	8	gởi
+aí	8	ái
+addicta	8	addicta
+thạnh	8	thạnh
+gét	8	gét
+na...na...na...na...na	8	na na na na na
+laughing	8	lau phờ inh
+pout	8	pout
+haizzz	8	hai
+gỏi	8	gỏi
+mầt	8	mầt
+jìan	8	jìan
+shì	8	shì
+nêm	8	nêm
+ea	8	i ây
+gangster	8	găng tơ
+nhố	8	nhố
+smokin	8	smokin
+drinkin	8	drinkin
+fresh	8	phờ rét
+dạm	8	dạm
+hell	8	heo
+taken	8	ta ken
+try-y-y	8	troai y y
+isn’t	8	isn t
+sweety	8	sweety
+secret	8	xi cờ rít
+nì	8	nì
+sua	8	sua
+giử	8	giử
+sweetie	8	sờ guýt ti
+uhh	8	uhh
+đanh	8	đanh
+explain	8	ích pờ lên
+dụm	8	dụm
+hoàị	8	hoại
+ow	8	âu
+nào...yeah	8	nào i ê
+4,5,6	8	bốn năm sáu
+wó	8	wó
+lõa	8	lõa
+control	8	con trôn
+word	8	guốt
+lasan	8	la xan
+nuôn	8	nuôn
+vạ	8	vạ
+haki	8	ha ki
+mr.a	8	mờ rờ a
+đoài	8	đoài
+bake	8	bếch
+nhõ	8	nhõ
+wat	8	oát
+hush	8	hắt xờ
+kurama	8	ku ra ma
+ngừa	8	ngừa
+kẹp	8	kẹp
+ge	8	gi i
+jing	8	jinh
+ti..ti...tin	8	ti ti tin
+đă	8	đă
+vểnh	8	vểnh
+cèp	8	cèp
+thoa	8	thoa
+suck	8	xắc
+family	8	pham mi li
+liềm	8	liềm
+lãy	8	lãy
+dêm	8	dêm
+xoong	8	xoong
+bioóc	8	bioóc
+đổi	8	đổi
+được	8	được
+người	8	người
+lúc	8	lúc
+đánh	8	đánh
+thấy	8	thấy
+cứ	8	cứ
+thôi	8	thôi
+vào	8	vào
+lời	8	lời
+đến	8	đến
+mất	8	mất
+yahh	8	yahh
+của.ủa	8	của ủa
+anhh	8	anh
+lead	8	lít
+coong	8	coong
+hoo.......o	8	hu o
+notre	8	nô trờ
+cheng	8	cheng
+tony	8	tô ni
+thuỵ	8	thụy
+cauze	8	cauze
+pra	8	ra
+dhani	8	đa ni
+svaha	8	svaha
+she'll	8	si lờ lờ
+mình...anh	8	mình anh
+gets	8	ghét
+ayyayaya	8	ayyayaya
+ayyayai	8	ayyayai
+papi	8	pa pi
+jian	8	ji ừn
+nupaka	8	nupaka
+skin	8	kin
+gùo	8	gùo
+yeoja	8	yeoja
+mệtttt	8	mệtttt
+ohoo	8	ohoo
+heeyyy	8	heeyyy
+đee	8	đee
+kissing	8	ki xinh
+yo’	8	yo
+wooh	8	wooh
+breathe...no	8	bờ rét no
+bump	8	băm
+ddu-bi-ddu-ddu	8	đư bi đư đư
+giệt	8	giệt
+hựu	7	hựu
+hẽm	7	hẽm
+0h	7	không giờ
+giảm	7	giảm
+red	7	rét
+plan	7	pờ lan
+boca	7	bô ca
+hasta	7	hasta
+rạc	7	rạc
+găp	7	găp
+ứơc	7	ước
+yup	7	i ắp
+54	7	năm mươi tư
+còm	7	còm
+fallin	7	pha lin
+sình	7	sình
+xộn	7	xộn
+solo	7	xô lô
+dâm	7	dâm
+móng	7	móng
+dợi	7	dợi
+shiett	7	shiett
+tokyo	7	tô ki ô
+south	7	xao
+trật	7	trật
+tưa	7	tưa
+rười	7	rười
+second	7	xe cần
+mắt	7	mắt
+dù	7	dù
+although	7	an thâu
+age	7	ết
+tick	7	tích
+nhều	7	nhều
+nhình	7	nhình
+dăn	7	dăn
+ngỗn	7	ngỗn
+water	7	oa tơ
+kiệm	7	kiệm
+ghánh	7	ghánh
+ngoi	7	ngoi
+láp	7	láp
+rủa	7	rủa
+laboon	7	la bon
+dr.thanh	7	đi a thanh
+ngoạn	7	ngoạn
+bỏ	7	bỏ
+wrapped	7	ráp
+nhẹn	7	nhẹn
+tiger	7	thai gơ
+giở	7	giở
+nghiền	7	nghiền
+21	7	hai mươi mốt
+goodnight	7	gút nai
+neon	7	nê ông
+shoulder	7	sâu đờ
+loạt	7	loạt
+trác	7	trác
+everywhere	7	e vơ ri goe
+hước	7	hước
+trôm	7	trôm
+xiang	7	xi ăng
+khất	7	khất
+wit	7	wit
+walked	7	goắc cờ
+soda	7	xô đa
+beer	7	bia
+fast	7	phát
+gụt	7	gụt
+khàn	7	khàn
+khiếu	7	khiếu
+ngọng	7	ngọng
+quoanh	7	quanh
+we've	7	uy ve
+realize	7	ri lai dờ
+nắp	7	nắp
+school	7	xờ cun
+vibe	7	vi bê
+khuyất	7	khuyất
+book	7	búc
+haiz	7	hai
+tuối	7	tuối
+tống	7	tống
+snow	7	xờ nâu
+nài	7	nài
+cũa	7	cũa
+xôi:	7	xôi
+gổ	7	gổ
+xự	7	xự
+sleeping	7	xờ líp pinh
+yahhh	7	yahhh
+hưũ	7	hữu
+đời	7	đời
+nguỵ	7	ngụy
+ui	7	ui
+nữạ	7	nựa
+gặp	7	gặp
+2k4	7	hai k bốn
+đọan	7	đoạn
+loá	7	lóa
+tryna	7	tryna
+hứ	7	hứ
+saigonese	7	sài gòn i
+ổ	7	ổ
+living	7	li vinh
+yours	7	jo sờ
+xèo	7	xèo
+dụi	7	dụi
+nin	7	nin
+chom	7	chôm
+we'd	7	guy dê
+trỡ	7	trỡ
+wá	7	wá
+brilliant	7	bờ ri li ừn
+jack	7	giách
+rằng	7	rằng
+gío	7	gió
+vỏn	7	vỏn
+miền	7	miền
+wild	7	oai đờ
+đẩm	7	đẩm
+hốc	7	hốc
+hỏi:	7	hỏi
+húc	7	húc
+hực	7	hực
+mách	7	mách
+anytime	7	a ny tham
+roll	7	rôn
+nái	7	nái
+a..li..ba..ba	7	a li ba ba
+ớn	7	ớn
+within	7	within
+hỡ	7	hỡ
+ngụt	7	ngụt
+ought	7	ót
+saw	7	xo
+sta	7	sờ ta
+nfronte	7	nfronte
+ngợp	7	ngợp
+apology	7	a pô lô ji
+feet	7	phít
+apart	7	ơ pát tờ
+stuck	7	xờ tắc
+hết...ok...ok	7	hết ô kê ô kê
+lời:	7	lời
+rữa	7	rữa
+sinner	7	xin nờ
+thuong	7	thương
+đuyên	7	đuyên
+vip	7	víp
+jeans	7	gin
+rank	7	ranh
+nốc	7	nốc
+chiêc	7	chiêc
+won’t	7	quan t
+kick	7	kích
+têm	7	têm
+khảm	7	khảm
+choose	7	chu
+vẵng	7	vẵng
+espresso	7	ét rét xồ
+chặc	7	chặc
+lè	7	lè
+juliet	7	giu li ét
+louis	7	lu i
+mỳ	7	mỳ
+counting	7	căn tinh
+lets	7	lét xờ
+xperia	7	ích pê ri a
+cotion	7	cô xừn
+clean	7	cờ lin
+motherfucking	7	motherfucking
+starboy	7	starboy
+pull	7	pun
+mèn	7	mèn
+naruto	7	na ru tô
+michi	7	mi chi
+híp	7	híp
+nghía	7	nghía
+ẻm	7	ẻm
+joy	7	joi
+zậy	7	zậy
+bro	7	bờ rô
+chakra	7	cha ra
+hõi	7	hõi
+tỵ	7	tỵ
+tuất	7	tuất
+mei	7	mây
+dou	7	đu
+zhè	7	zhè
+hâu	7	hâu
+muì	7	mùi
+montata	7	montata
+demo	7	đê mô
+cữu	7	cữu
+chiểu	7	chiểu
+uẩn	7	uẩn
+whenever	7	goe ne vơ
+cùi	7	cùi
+dĩa	7	dĩa
+muơi	7	muơi
+anhhhh	7	anhhhh
+des	7	đét
+tian	7	ti an
+thỏi	7	thỏi
+wợch	7	wợch
+misa	7	mi xa
+pan	7	pan
+chờ…cứ	7	chờ cứ
+hooooo	7	hooooo
+chéng	7	chén
+color	7	ca lơ
+h'zen	7	giờ den
+sheng	7	seng
+rù	7	rù
+đêyyy	7	đêyyy
+it​	7	it
+bứơc	7	bước
+babebabe	7	babebabe
+comming	6	comming
+you’d	6	you d
+lữa	6	lữa
+mạo	6	mạo
+choe	6	choe
+slowly	6	xờ lâu li
+key	6	ki
+bailar	6	bailar
+favorito	6	favorito
+lot	6	lót
+hưa	6	hưa
+tằng	6	tằng
+lẩu	6	lẩu
+local	6	lô cồ
+vướn	6	vướn
+games	6	ghêm
+chá	6	chá
+suê	6	suê
+hella	6	heo la
+bands	6	ban đờ sờ
+gìm	6	gìm
+incredible	6	in cờ re đíp bồ
+wouldn’t	6	wouldn t
+blame	6	bờ lêm
+só	6	só
+chể	6	chể
+lucy	6	lu xi
+howard	6	ho guốt
+huhuh	6	huhuh
+khểnh	6	khểnh
+pao	6	pao
+snapback	6	náp bách
+kid	6	kít
+phét	6	phét
+cover	6	co vờ
+fu	6	phu
+karik	6	ca rích
+both	6	bốt
+choice	6	choi sờ
+sơm	6	sơm
+phum	6	phun
+lời	6	lời
+thể	6	thể
+trẻ	6	trẻ
+níu	6	níu
+lấy	6	lấy
+while	6	while
+since	6	xin xờ
+chảo	6	chảo
+ơi.......anh	6	ơi anh
+chiếp	6	chiếp
+phả	6	phả
+phủt	6	phủt
+bỉnh	6	bỉnh
+đdể	6	đdể
+suôi	6	suôi
+lònh	6	lònh
+khảo	6	khảo
+kissed	6	ki xét
+hươu	6	hươu
+doeeo	6	doeeo
+neoreul	6	neoreul
+sarang	6	xa rang
+paper	6	pây pờ
+lắm..có	6	lắm có
+đi..biết	6	đi biết
+lắm..giấu	6	lắm giấu
+running	6	răn ninh
+begin	6	bi ghin
+survive	6	xơ vai
+1..2..3..5	6	một hai ba năm
+hạp	6	hạp
+chàm	6	chàm
+neva	6	nê va
+jaytee	6	jaytee
+bươn	6	bươn
+iphone	6	ai phôn
+ấm	6	ấm
+ngụ	6	ngụ
+sick	6	xích
+ngâng	6	ngâng
+chếnh	6	chếnh
+nam-mô	6	nam mô
+ta-bà	6	ta bà
+u-minh	6	u minh
+nhạt	6	nhạt
+phông	6	phông
+chểnh	6	chểnh
+tiu	6	tiu
+xót...xa	6	xót xa
+ngoãn	6	ngoãn
+socrates	6	xóc cờ rết
+rỉnh	6	rỉnh
+phướng	6	phướng
+mếu	6	mếu
+mấ	6	mấ
+chon	6	chon
+walking	6	goắc kinh
+thậtt	6	thậtt
+goodness	6	gút nít sờ
+grab	6	gờ ráp
+starts	6	xờ tát xờ
+đểu	6	đểu
+duới	6	duới
+sùng	6	sùng
+xầm	6	xầm
+ạt	6	ạt
+a......ế	6	a ế
+ôôôôôôôô	6	ôôôôôôôô
+dặc	6	dặc
+broke	6	bờ rốc cờ
+write	6	roai
+somethin	6	xăm thin
+caught	6	cót
+bling	6	bờ linh
+ou	6	u
+deal	6	điu
+hamkke	6	hamkke
+hình	6	hình
+hallelujah	6	ha le lu ja
+que-que-que	6	que que que
+duối	6	duối
+tôỉ	6	tổi
+khóc	6	khóc
+phượt	6	phượt
+tíu	6	tíu
+sang,ở	6	sang ở
+sex	6	xếch
+midside's	6	midside ét xờ
+prince	6	pờ rin xờ
+ayo	6	ây ô
+grand	6	gờ ran
+aia	6	ai a
+ia	6	ai ây
+nhằng	6	nhằng
+càm	6	càm
+mouth	6	mao
+tuồi	6	tuồi
+fills	6	fills
+ill	6	iu
+tép	6	tép
+hieu	6	hiệu
+phớí	6	phới
+suýt	6	suýt
+ghiềm	6	ghiềm
+ĩ	6	ĩ
+sắng	6	sắng
+c'mon	6	xê mon
+suỵt	6	suỵt
+xoà	6	xòa
+nezuko	6	ne du cô
+touliver	6	tua li vơ
+dead	6	đét
+thẵm	6	thẵm
+luốc	6	luốc
+giễu	6	giễu
+mio	6	mi ô
+most	6	mốt
+fault	6	phau
+old	6	âu
+others	6	a zơ
+flying	6	phờ lai inh
+cãm	6	cãm
+mịn	6	mịn
+cầụ	6	cậu
+đe	6	đe
+ẳm	6	ẳm
+takin	6	takin
+be-be-be-live	6	be be be lai
+you-you-you	6	iu iu iu
+buy	6	buy
+joker	6	giốc cơ
+strange	6	xờ tren
+hớ...ơ	6	hớ ơ
+fatima	6	pha ti ma
+chọt	6	chọt
+truớc	6	truớc
+vọt	6	vọt
+ehh	6	ehh
+yehh	6	yehh
+dare	6	đe
+ỳ	6	ỳ
+geol	6	geol
+couldn't	6	couldn tê
+sùi	6	sùi
+trái﻿	6	trái
+ai..mà	6	ai mà
+ai..từ	6	ai từ
+em..người	6	em người
+mên	6	mên
+rành	6	rành
+push	6	pút
+stone	6	xờ tôn
+swear	6	goe
+dám	6	dám
+sweetest	6	sweetest
+lời....yêu	6	lời yêu
+culture	6	can trờ
+one)3	6	oăn ba
+mớị	6	mợi
+tiếng	6	tiếng
+win	6	guyn
+worries	6	worries
+sheep	6	síp
+quảnh	6	quảnh
+khoay	6	khoay
+nhụa	6	nhụa
+con:	6	con
+winner	6	uyn nơ
+speak	6	pếch
+í..í..í	6	í í í
+đây(còn	6	đây còn
+zui	6	zui
+hunt	6	hăn
+đứai	6	đứai
+lụng	6	lụng
+sảng	6	sảng
+nhoẹt	6	nhoẹt
+thấp	6	thấp
+hèn	6	hèn
+hẹ	6	hẹ
+you’ve	6	you ve
+vể	6	vể
+worth	6	guốt
+anata	6	a na ta
+hora	6	hô ra
+mite	6	mite
+goran	6	gô rừn
+oh...u....oh...u	6	ô u ô u
+dangerous...so	6	đen jơ rớt sờ so
+dangerous	6	đen jơ rớt xờ
+xư	6	xư
+ròi	6	ròi
+hõa	6	hõa
+golden	6	gâu đen
+ik	6	ích
+bana	6	ba na
+hark	6	hác cờ
+bươm	6	bươm
+sù	6	sù
+bạnh	6	bạnh
+sửu	6	sửu
+khấm	6	khấm
+câu:	6	câu
+liếm	6	liếm
+zhe	6	dê
+rẳng	6	rẳng
+không...không	6	không không
+nanh	6	nanh
+nhẽ	6	nhẽ
+raw	6	ro
+didn’t	6	didn t
+rẽ..đôi	6	rẽ đôi
+đây..bên	6	đây bên
+tag	6	tác
+em,lần	6	em lần
+vali	6	va li
+hóp	6	hóp
+homies	6	homies
+shalom	6	sa lom
+sayonarao	6	sayonarao
+balance	6	ba lan xờ
+lus	6	lus
+ă	6	ă
+â	6	â
+lalalala	6	lalalala
+mẹ..già	6	mẹ già
+gucci	6	gu chi
+xọn	6	xọn
+đời	6	đời
+đâu	6	đâu
+những	6	những
+xuân	6	xuân
+giữ	6	giữ
+gìn	6	gìn
+liệu	6	liệu
+xứng	6	xứng
+đáng	6	đáng
+với	6	với
+chữ	6	chữ
+niềm	6	niềm
+ngốc	6	ngốc
+nghếch	6	nghếch
+thuộc	6	thuộc
+về	6	về
+xưởng	6	xưởng
+thẽ	6	thẽ
+sided	6	sided
+gái...anh	6	gái anh
+lah	6	la
+ngải	6	ngải
+nhẹt	6	nhẹt
+chằm	6	chằm
+bẫm	6	bẫm
+chaien	6	chai ừn
+saỵ	6	sạy
+gun	6	gun
+nả	6	nả
+biết...em	6	biết em
+this’s	6	this s
+yall	6	i ôn
+nghàn	6	nghàn
+anhhh	6	anhhh
+thục	6	thục
+50	6	năm mươi
+huu.......u	6	hưu u
+quand	6	quan đờ
+wei	6	uây
+núng	6	núng
+daily	6	đây li
+animal	6	en ni mồ
+rời	6	rời
+zê	6	zê
+flip	6	phờ líp
+overwhelmed	6	âu vờ goem
+may^	6	may
+tim...dại	6	tim dại
+sammi	6	xam mi
+gằng	6	gằng
+jie	6	ji
+kư	6	kư
+như…giá	6	như giá
+nghe…lắng	6	nghe lắng
+oà…vỡ	6	òa vỡ
+luminous	6	lu mi nớt xờ
+chose	6	chô
+nhớ...một	6	nhớ một
+moa	6	moa
+iêu	6	iêu
+ha...há...ha...ha	6	ha há ha ha
+méi	6	méi
+yeux	6	yêu
+oppan	6	oppan
+ourself	6	ourself
+ừa	6	ừa
+péng	6	péng
+popopo	6	popopo
+rororo	6	rororo
+seventeen	6	xe vừn tin
+ayda	6	ây đa
+đó:	6	đó
+đâu:	6	đâu
+trách	6	trách
+dễ	6	dễ
+thuột	6	thuột
+vòng	6	vòng
+đi...ngoài	6	đi ngoài
+chase	6	chây sờ
+shiny	6	si ni
+diamonds	6	đai ờ mừn sờ
+tết...về	6	tết về
+wah	6	goa
+salanghae	6	salanghae
+kissin	6	kissin
+proud	6	pờ rao đờ
+serenade	6	xê rê nết
+zan	6	zan
+kissy	6	ki xi
+discovering	6	discovering
+oh—i—oh—i—oh—i—oh—i	6	ồ i ồ i ồ i ồ i
+dơn	5	dơn
+vẻn	5	vẻn
+chowahae	5	chowahae
+đầu	5	đầu
+cấn	5	cấn
+vẹo	5	vẹo
+lòi	5	lòi
+huhu	5	hu hu
+kind	5	cai đờ
+eres	5	eres
+voy	5	voy
+conmigo	5	conmigo
+las	5	lát
+lugares	5	lugares
+favoritos	5	favoritos
+provocar	5	provocar
+gritos	5	gritos
+olvides	5	olvides
+apellido	5	apellido
+tengo	5	ten gô
+swell	5	swell
+trôn	5	trôn
+ms	5	mờ ét sờ
+henessy	5	he nét xi
+silicon	5	xi li côn
+flybois	5	flybois
+binzet	5	binzet
+binzi	5	binzi
+dóng	5	dóng
+nĩ	5	nĩ
+đít	5	đít
+aye	5	ây
+nhép	5	nhép
+giẫu	5	giẫu
+ngặt	5	ngặt
+trĩ	5	trĩ
+ano	5	a nô
+dcme	5	dcme
+spend	5	sờ pen
+chã	5	chã
+từa	5	từa
+k‎ý	5	k ý
+13	5	mười ba
+sãi	5	sãi
+shot	5	sót
+funny	5	phăn ni
+chêt	5	chêt
+nố	5	nố
+quá	5	quá
+dài	5	dài
+ways	5	guây sờ
+presents	5	re dừn sờ
+xấp	5	xấp
+tụt	5	tụt
+kià	5	kìa
+suất	5	suất
+bộc	5	bộc
+loved	5	láp
+near	5	nia
+hugolina	5	hugolina
+lườm	5	lườm
+blues	5	bờ lu
+table	5	thây bồ
+rụi	5	rụi
+gạ	5	gạ
+vồn	5	vồn
+mihawk	5	mihawk
+monkey	5	măn ki
+crocodile	5	cờ rô cơ đai
+pensee	5	pensee
+dress	5	đờ rét sờ
+bịt	5	bịt
+3d	5	ba dê
+nhợt	5	nhợt
+nhẩy	5	nhẩy
+relationship	5	ri lây sừn síp
+moonlight	5	mun lai tờ
+naui	5	naui
+neoui	5	neoui
+nal	5	nồ
+neomu	5	neomu
+ijen	5	ai gien
+mảng	5	mảng
+shoot	5	sút
+risk	5	rít sờ
+glass	5	gờ lát
+begins	5	bi gin xờ
+fade	5	phát
+space	5	xờ pây
+problems	5	pờ rô bờ lem xờ
+thru	5	thờ ru
+someday	5	xăm đây
+mòng	5	mòng
+buột	5	buột
+miến	5	miến
+kị	5	kị
+hòi	5	hòi
+như-lai	5	như lai
+xuka	5	xu ca
+600	5	sáu trăm
+cồ	5	cồ
+xịt	5	xịt
+vegeta	5	ge gét ta
+frieza	5	phờ ri ê da
+time's	5	tham ét
+đôm	5	đôm
+coca	5	cô ca
+mề	5	mề
+vẩy	5	vẩy
+nghéo	5	nghéo
+đươm	5	đươm
+andiez	5	an đi ê
+nghịu	5	nghịu
+bệ	5	bệ
+comin	5	comin
+cos	5	cốt
+deeper	5	đíp ờ
+khứa	5	khứa
+yet	5	yết
+crime	5	cờ ram
+thuẩn	5	thuẩn
+thousand	5	thao dừn đờ
+knowing	5	nâu inh
+quách	5	quách
+burning	5	bơn ninh
+﻿đón	5	đón
+remix	5	ri mích
+queo	5	queo
+xoi	5	xoi
+leng	5	leng
+youuuu	5	youuuu
+sốc	5	sốc
+reborn	5	ri bon
+sake	5	xa kê
+anyone	5	a ni ôn
+thôiđừng	5	thôiđừng
+mình...xa	5	mình xa
+niga	5	niga
+phò	5	phò
+tháng	5	tháng
+vĩa	5	vĩa
+thúng	5	thúng
+nỗi	5	nỗi
+làm	5	làm
+nước	5	nước
+craze	5	cờ ra dê
+draw	5	ro
+tequila	5	tê qui la
+lucky	5	lắc ki
+gáp	5	gáp
+diamond	5	đai mon
+copy	5	cóp pi
+profile	5	pờ rô phai
+boombap	5	boombap
+choi	5	choi
+stage	5	xờ tết giờ
+passed	5	pát xờ tờ
+teach	5	tếch
+poor	5	pua
+rules	5	ru
+beef	5	bi phờ
+ngỗ	5	ngỗ
+padme	5	pát mi
+keys	5	ki
+v.i.p	5	vê ai pê
+hurts	5	hớt sờ
+york	5	i oóc
+disco	5	đi sờ cô
+wow...wo...biết	5	oao u biết
+đôla	5	đôla
+2019	5	hai nghìn không trăm mười chín
+fantasy	5	phan ta xi
+toái	5	toái
+chiền	5	chiền
+iron	5	ai ron
+nướt	5	nướt
+fairy	5	fe ri
+đấp	5	đấp
+drive	5	đờ rai
+gớm	5	gớm
+fans	5	phan
+tộ	5	tộ
+kimono	5	ki mô nô
+lựu	5	lựu
+xo	5	xo
+sành	5	sành
+gô	5	gô
+xin...trả	5	xin trả
+turned	5	tơn
+spirits	5	sờ pi rít sờ
+xốc	5	xốc
+ngảy	5	ngảy
+trợ	5	trợ
+khảy	5	khảy
+yu	5	i u
+rằn	5	rằn
+yào	5	yào
+đuỗi	5	đuỗi
+bazan	5	ba dan
+quỹ	5	quỹ
+years	5	ia
+blossom	5	bờ lo xầm
+fill	5	phiu
+trọt	5	trọt
+thố	5	thố
+grey	5	gờ rây
+unlike	5	ăn lai
+now's	5	nao ét
+heat	5	hít
+chanel	5	trờ neo
+giồi	5	giồi
+ùh	5	ùh
+ộp	5	ộp
+lù	5	lù
+1001	5	một nghìn không trăm linh một
+somewhere	5	xăm goe
+chuan	5	chu an
+nhip	5	nhịp
+táng	5	táng
+ngộp	5	ngộp
+nge	5	nghe
+ỏi	5	ỏi
+tẩu	5	tẩu
+gianh	5	gianh
+noway	5	noway
+sway	5	xờ guây
+flashlight	5	phờ lát lai
+doraga	5	doraga
+ocean	5	âu xừn
+căc	5	căc
+bombo	5	bom bô
+đặn	5	đặn
+lac	5	lạc
+there’s	5	there s
+gại	5	gại
+wiz	5	guy dờ
+chìu	5	chìu
+hết	5	hết
+order	5	a đờ
+thốn	5	thốn
+hip-hop	5	híp hóp
+gộp	5	gộp
+bện	5	bện
+mess	5	mét
+kô-man	5	kô man
+nịa	5	nịa
+đí	5	đí
+tình:	5	tình
+nũa	5	nũa
+heads	5	hét xờ
+chạc	5	chạc
+shen	5	sen
+feng	5	pheng
+ju	5	giu
+joke	5	jốc cơ
+dope	5	đô pờ
+duyệt	5	duyệt
+mấy	5	mấy
+giot	5	ghi ốt
+seen	5	xin
+tumla	5	tumla
+tumlum	5	tumlum
+dềnh	5	dềnh
+mirai	5	mi rai
+kara	5	ca ra
+closing	5	cờ lo xinh
+busy	5	bu xi
+after	5	áp tơ
+ngoeo	5	ngoeo
+lk	5	lờ ca
+thỡ	5	thỡ
+haizz	5	hải dờ
+phộng	5	phộng
+christ	5	cờ rít xờ
+đỏa	5	đỏa
+kiết	5	kiết
+xanh..màu	5	xanh màu
+oppa	5	ồ pa
+nen	5	nen
+thìn	5	thìn
+hợi	5	hợi
+hui	5	hui
+qing	5	kinh
+zenitsu	5	de nít xu
+trơì	5	trời
+tứng	5	tứng
+yêu-yêu-yêu	5	yêu yêu yêu
+dạc	5	dạc
+phui	5	phui
+thpt	5	tê hát pê tê
+delilah	5	đe li la
+spacespeakers	5	spacespeakers
+nhieu	5	nhiêu
+hau	5	hau
+instead	5	in tét
+social	5	xô sồ
+network	5	nét guốc
+champagne	5	xâm panh
+chỡ	5	chỡ
+holy	5	hô li
+you'r	5	iu rờ
+tuế	5	tuế
+lôm	5	lôm
+chocopie	5	chô cô pi
+6h	5	sáu giờ
+shin	5	sin
+kushin	5	kushin
+volume	5	vô lum
+thóang	5	thoáng
+tươm	5	tươm
+quì	5	quì
+xênh	5	xênh
+lẻn	5	lẻn
+kép	5	kép
+min	5	min
+hơm	5	hơm
+xáng	5	xáng
+puff	5	pắp phờ
+ice	5	ai xờ
+pretend	5	pretend
+địt	5	địt
+giua	5	giua
+satoshi	5	xa tô si
+tom	5	tom
+phao	5	phao
+kím	5	kím
+phantom	5	phan tôm
+opera	5	ô pê ra
+cuới	5	cuới
+lieu	5	liệu
+pla	5	pờ la
+mamy	5	ma mi
+ses	5	xét sờ
+plus	5	pờ lớt
+cách	5	cách
+khập	5	khập
+yan	5	dan
+đât	5	đât
+sảy	5	sảy
+quẳng	5	quẳng
+vùn	5	vùn
+oh-oh-oh	5	ô ô ô
+ẩm	5	ẩm
+quickly	5	quickly
+rolling	5	rô linh
+ci	5	ci
+sao,yeah	5	sao i ê
+ơi:	5	ơi
+c...h....ó	5	xê giờ ó
+duo	5	đu ô
+ất	5	ất
+common	5	com mừn
+dình	5	dình
+ưh	5	ưh
+vie	5	vi i
+tous	5	tu
+hmmm	5	hát mờ mờ mờ
+needs	5	nít sờ
+fone	5	phôn
+valse	5	van
+qì	5	qì
+jì	5	gì
+kikyo	5	kikyo
+yasha	5	i a sa
+sous	5	xu
+kaigaku	5	cai ga cu
+pensé	5	pensé
+movie	5	mu vi
+kakashi	5	kakashi
+mais	5	mai sờ
+tìn	5	tìn
+block	5	bờ lóc
+hò...ơ	5	hò ơ
+lới	5	lới
+ón	5	ón
+rằng:"anh	5	rằng anh
+mix	5	mích
+lêkima	5	lêkima
+amour	5	a mua
+masterpiece	5	mát xờ tơ pi xờ
+n'existais	5	nờ existais
+2k3	5	hai k ba
+ai..lỗi	5	ai lỗi
+ai...lỗi	5	ai lỗi
+shape	5	sếp
+oooooooo	5	oooooooo
+nhín	4	nhín
+trắng	4	trắng
+memory	4	me mo ri
+corp	4	cọp
+alway	4	an guây
+macchiato	4	mác chi a tô
+đỉa	4	đỉa
+fit	4	phít
+esto	4	ét sờ tô
+al	4	an
+pelo	4	pelo
+ser	4	xơ
+ritmo	4	ritmo
+sobrepasar	4	sobrepasar
+zonas	4	zonas
+peligro	4	peligro
+sabes	4	sabes
+cuando	4	cuando
+cine	4	xi nê
+chime	4	chim
+prancing	4	prancing
+square	4	sờ que
+frosty	4	phờ rót ti
+tear)mong	4	tia mong
+đây…hỡi	4	đây hỡi
+b-a-r-b-i-e	4	bê a rờ bê ai e
+đốp	4	đốp
+ngăng	4	ngăng
+lần,trắng	4	lần trắng
+rổn	4	rổn
+bịch	4	bịch
+xịn	4	xịn
+hịn	4	hịn
+đầụ	4	đậu
+here's	4	hia ét sờ
+miracle	4	mi ra cồ
+lyrical	4	li rích cồ
+saved	4	xếp đờ
+pause	4	po xờ
+skill	4	sờ kiu
+5k	4	năm ca
+tưoi	4	tưoi
+chệch	4	chệch
+choạc	4	choạc
+overground	4	overground
+vr	4	vê rờ
+nhẩm	4	nhẩm
+aren't	4	aren tê
+em…sẽ	4	em sẽ
+đẹo	4	đẹo
+ahhhh	4	ahhhh
+lỗi	4	lỗi
+giản	4	giản
+tại	4	tại
+định	4	định
+mệnh	4	mệnh
+giận	4	giận
+vậy	4	vậy
+ngồi	4	ngồi
+ngắn	4	ngắn
+ướt	4	ướt
+khoé	4	khóe
+tưởng	4	tưởng
+vụt	4	vụt
+mất	4	mất
+ậm	4	ậm
+calm	4	cam
+sparkling	4	pác linh
+blessing	4	bờ lét xinh
+12h	4	mười hai giờ
+dấng	4	dấng
+facebok	4	phây búc
+yeahhhhh	4	yeahhhhh
+khoáng	4	khoáng
+does	4	đớt
+euro	4	ơ rô
+goin	4	gô in
+loves	4	lớp
+curves	4	cơ sờ
+beginning	4	bi gin ninh
+beating	4	bít tinh
+singum	4	xing gum
+lãm	4	lãm
+samurai	4	xa mu rai
+law	4	lo
+trơi	4	trơi
+gàn	4	gàn
+nico	4	ni cô
+d.luffy	4	đê lắp phi
+rod	4	rốt
+lucci	4	lu chi
+d.ace	4	đê ây xờ
+háu	4	háu
+lớt	4	lớt
+higher	4	hai ờ
+takes	4	tếch xờ
+viền	4	viền
+rợn	4	rợn
+duơng	4	duơng
+depper	4	depper
+thũi	4	thũi
+thoy	4	thoy
+đợm	4	đợm
+trỏ	4	trỏ
+nhắt	4	nhắt
+‘re	4	re
+nareul	4	nareul
+amu	4	a mu
+tuesday	4	tu ét xờ đây
+dior	4	đi o
+uu	4	ưu
+nguỵên	4	nguyện
+bệt	4	bệt
+dốn	4	dốn
+i...í	4	ai í
+núi	4	núi
+mác	4	mác
+lấu	4	lấu
+hờn..chẳng	4	hờn chẳng
+checkin	4	chếch kin
+storm	4	xờ tom
+suffocating	4	suffocating
+grew	4	gờ ru
+upon	4	ấp pon
+đâu,tìm	4	đâu tìm
+ending	4	en dinh
+thấu...ơ	4	thấu ơ
+hits	4	hít
+f***ing	4	ép inh
+closed	4	cờ lâu tờ
+ngàỵ	4	ngạy
+count	4	cao tờ
+grow	4	gờ râu
+beauty	4	buy ti
+knock	4	cờ nốc
+ách	4	ách
+nựng	4	nựng
+hạnh	4	hạnh
+nghoảnh	4	nghoảnh
+loẹt	4	loẹt
+wifi	4	goai phai
+cares	4	ca rét xờ
+shazg	4	shazg
+chazg	4	chazg
+trứ	4	trứ
+model	4	mo đồ
+battle	4	bát tồ
+view	4	viu
+moria	4	mo ri a
+đây...mất	4	đây mất
+mc	4	mờ xê
+nạy	4	nạy
+bank	4	banh
+h’hen	4	hờ hen
+mirror	4	mi rô
+bương	4	bương
+heh	4	hê
+goku	4	gô cu
+songoku	4	sông ô cu
+mào:"chào	4	mào chào
+ca:"chào	4	ca chào
+chòe:"chào	4	chòe chào
+nâu:"chào	4	nâu chào
+summer's	4	xăm mờ ét
+it'll	4	ít lờ lờ
+chẵn	4	chẵn
+nguoi	4	người
+laptop	4	lép tốp
+trét	4	trét
+design	4	đi dai
+called	4	côn
+hấn	4	hấn
+lớ	4	lớ
+phôn	4	phôn
+niềm	4	niềm
+mau..tựa	4	mau tựa
+eyes.....eyes	4	ai ai
+tọa	4	tọa
+16	4	mười sáu
+28	4	hai mươi tám
+fuckin	4	fuckin
+pen	4	pen
+đẵng	4	đẵng
+zà	4	zà
+gãi	4	gãi
+ngứa	4	ngứa
+lải	4	lải
+nhải	4	nhải
+quên:	4	quên
+doubts	4	doubts
+gym	4	dim
+shop	4	sóp
+misty	4	mít sờ ti
+hat	4	hát
+ghanh	4	ghanh
+vế	4	vế
+khử	4	khử
+sao,từng	4	sao từng
+luýnh	4	luýnh
+keng	4	keng
+ổi	4	ổi
+ụt	4	ụt
+nature	4	nây trờ
+job	4	gióp
+holdin	4	holdin
+sệt	4	sệt
+đẽo	4	đẽo
+delete	4	đi lít
+modeun	4	modeun
+neoraneun	4	neoraneun
+gối	4	gối
+đơi	4	đơi
+onl	4	on
+nó:	4	nó
+chây	4	chây
+kể	4	kể
+từ	4	từ
+ấy	4	ấy
+đầy	4	đầy
+cầu	4	cầu
+niệm	4	niệm
+nguyện	4	nguyện
+thầm	4	thầm
+trước	4	trước
+cứ	4	cứ
+trả	4	trả
+cảm	4	cảm
+strongbow	4	sờ troong bâu
+spider	4	pai đơ
+peter	4	pi tơ
+tuộc	4	tuộc
+mascara	4	mát ca ra
+nghĩnh	4	nghĩnh
+ft	4	phít
+phăng	4	phăng
+nẩy	4	nẩy
+dọi	4	dọi
+đét	4	đét
+setter	4	setter
+oldschool	4	oldschool
+chúng	4	chúng
+cười	4	cười
+lying	4	lai inh
+longer	4	long gơ
+đình,yêu	4	đình yêu
+comple	4	com lê
+láu	4	láu
+xìa	4	xìa
+t-shirt	4	tê sớt
+turns	4	tơn sờ
+nham	4	nham
+quoi	4	koi
+được..yên	4	được yên
+chẻ	4	chẻ
+account	4	ơ cao
+compare	4	com pe
+zero	4	zê rô
+nhúng	4	nhúng
+rà	4	rà
+laugh	4	lau phờ
+great	4	gờ rít
+comfortable	4	com pho tơ bồ
+quê,đức	4	quê đức
+ơi...đừng	4	ơi đừng
+seachains	4	seachains
+laces	4	laces
+met	4	mét
+xít	4	xít
+songs	4	xoong
+reach	4	rít chờ
+hours	4	ao ờ
+h'mông	4	giờ mông
+tale	4	têu
+mẩn	4	mẩn
+buoc	4	buốc
+tiep	4	tiếp
+gạc	4	gạc
+gồ	4	gồ
+em....ơi	4	em ơi
+tinder	4	tin đờ
+kềm	4	kềm
+tuýp	4	tuýp
+hd	4	hát dê
+tanjiro	4	ta ni rô
+perfume	4	pơ phu mi
+regret	4	rê gờ rét
+thuồn	4	thuồn
+phốt	4	phốt
+khuông	4	khuông
+nhẩn	4	nhẩn
+﻿ngộ	4	ngộ
+lởi	4	lởi
+aside	4	a xai
+sleighing	4	sleighing
+duyêt	4	duyêt
+gía	4	giá
+drown	4	đờ rao
+bặm	4	bặm
+nảo	4	nảo
+tiêng	4	tiêng
+nhịp	4	nhịp
+xẻo	4	xẻo
+emđứng	4	emđứng
+hò...ơi	4	hò ơi
+ơi...hò	4	ơi hò
+sí	4	sí
+pu	4	pu
+wan	4	goan
+khong	4	khong
+jìu	4	jìu
+tóu	4	tóu
+underneath	4	ăn đơ nít
+thửa	4	thửa
+bolsa	4	bôn xa
+hleo	4	hờ lêu
+sup	4	súp
+auto	4	au tô
+gta	4	gờ ta
+ngăm	4	ngăm
+ênh	4	ênh
+keeps	4	kíp sờ
+fading	4	fading
+vodka	4	vốt ca
+sáng...ok...ok	4	sáng ô kê ô kê
+tỉm	4	tỉm
+trục	4	trục
+chềnh	4	chềnh
+you's	4	iu ét sờ
+turning	4	tơn ninh
+beng	4	beng
+facetime	4	phây tham
+kudo	4	cu đô
+lé	4	lé
+cươi	4	cươi
+luẩn	4	luẩn
+una	4	iu na
+moren	4	moren
+sì	4	sì
+muỗn	4	muỗn
+pleiku	4	pờ lây cu
+london	4	lôn đôn
+sẫm	4	sẫm
+reval	4	reval
+sarangi	4	xa ran ghi
+isn't	4	i xờ tê
+tru	4	tru
+vòng﻿	4	vòng
+hữa	4	hữa
+sum...đầy	4	sum đầy
+ngui	4	ngui
+của	4	của
+lòng…áh	4	lòng áh
+namct	4	namct
+cooler	4	cu lơ
+vộ	4	vộ
+minute	4	min nít
+buýt	4	buýt
+gậm	4	gậm
+nghệch	4	nghệch
+nhau..mãi	4	nhau mãi
+wanted	4	goăn tựt
+emcee	4	em xi
+ruỗi	4	ruỗi
+hahaha	4	hahaha
+deny	4	đe ni
+ghập	4	ghập
+chàn	4	chàn
+we’ve	4	we ve
+toát	4	toát
+lòng…cất	4	lòng cất
+nghiã	4	nghĩa
+tràn(này	4	tràn này
+sigan	4	sigan
+seeobwado	4	seeobwado
+toáng	4	toáng
+swith	4	swith
+pump	4	păm
+bed	4	bét
+muồn	4	muồn
+arrived	4	a ríp vờ
+nhom	4	nhom
+held	4	heo đờ
+guide	4	gui
+goal	4	gôn
+mả	4	mả
+ghi-ta	4	ghi ta
+khoả	4	khỏa
+cước	4	cước
+ngoặt	4	ngoặt
+ơ...ớ...ơ	4	ơ ớ ơ
+skinny	4	sờ kin ni
+shade	4	sết
+test	4	tét
+standing	4	ten đinh
+mera	4	mê ra
+addicted	4	át đích tựt
+sadness	4	xát nít
+kids	4	kít
+heels	4	hi ồ xờ
+joe	4	giâu
+sài-gòn	4	sài gòn
+nhợp	4	nhợp
+nhạp	4	nhạp
+giun	4	giun
+dat	4	đất
+gentleman	4	gien tồ mừn
+xẹp	4	xẹp
+ngoắc	4	ngoắc
+gam	4	gam
+friday	4	phờ rai đây
+lynk	4	lin khờ
+toki	4	tô ki
+imi	4	i mi
+ràn	4	ràn
+ơi..xích	4	ơi xích
+tree	4	tri
+screen	4	cờ rin
+kelly	4	ken ly
+giâc	4	giâc
+hếch	4	hếch
+whoa-oh-oh	4	g ô ô
+sang…còn	4	sang còn
+feels	4	phi ồ sờ
+ầy	4	ầy
+nay,vẫn	4	nay vẫn
+hợt	4	hợt
+glow	4	gờ lâu
+laughter	4	lau phờ tờ
+shouter	4	shouter
+child	4	chai
+gòng	4	gòng
+xàm	4	xàm
+anybody	4	a ny bo đi
+biết:	4	biết
+giậu	4	giậu
+madara	4	ma đa ra
+minato	4	mi na tô
+hòang	4	hoàng
+whisper	4	whisper
+mẹo	4	mẹo
+rẽng	4	rẽng
+yeahh	4	yeahh
+gió,hỏi	4	gió hỏi
+nhạy	4	nhạy
+thẹo	4	thẹo
+cười,bỗng	4	cười bỗng
+sìi	4	sìi
+yùu	4	yùu
+kàp	4	kàp
+pliw	4	pliw
+yàak	4	yàak
+chùt	4	chùt
+khon	4	khon
+pòk	4	pòk
+phàan	4	phàan
+wâa	4	wâa
+phráaathít	4	phráaathít
+tòk	4	tòk
+mâymiiwan	4	mâymiiwan
+phìt	4	phìt
+thùuk	4	thùuk
+miisìt	4	miisìt
+khwaamrák	4	khwaamrák
+aakàat	4	aakàat
+wímaan	4	wímaan
+plùuk	4	plùuk
+yùudiidii	4	yùudiidii
+awcay	4	awcay
+phùuk	4	phùuk
+níi	4	níi
+maa	4	ma
+kèp	4	kèp
+laa	4	laa
+pròot	4	pròot
+dâay	4	dâay
+amlaa	4	amlaa
+went	4	goen
+happieness	4	happieness
+decide	4	đi xi ai đờ
+faut	4	phót
+wàng	4	wàng
+rảo	4	rảo
+xoàng	4	xoàng
+alô	4	alô
+dừng	4	dừng
+cha-ching	4	cha ching
+ba-bling	4	ba bờ linh
+cash	4	cát
