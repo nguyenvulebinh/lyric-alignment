@@ -1,0 +1,9 @@
+torch
+torchaudio
+transformers
+decorator
+numpy
+regtag
+vinorm
+matplotlib
+tqdm
