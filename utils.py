@@ -6,6 +6,7 @@ from dataclasses import dataclass
 import torch
 import glob
 import os
+import shutil
 
 with open('./read_map.json', 'r', encoding='utf-8') as file:
     exeption_oov = json.load(file)
@@ -163,9 +164,18 @@ def add_pad(word_segments, emission, shift_val=6, small_seg_val=7, shift_small_s
             word.end = next_word.start
         # next_word.start -= 1
         
-        if word.end - word.start < small_seg_val:
-            word.end += shift_small_seg
-            word.start -= shift_small_seg
+        if word.end - word.start <= 70:
+            # word.end += shift_small_seg
+            word.start -= 1
+            word.end += 1
+        elif word.end - word.start < 7:
+            word.start -= 2
+            word.end += 2
+                
+        
+        # if word.end - word.start < small_seg_val:
+        #     word.end += shift_small_seg
+        #     word.start -= shift_small_seg
         
     word = word_segments[-1]
     word_segments[-1].end = min(len(emission), word_segments[-1].end + 200)
@@ -205,6 +215,9 @@ def load_test_case(data_path):
         if map_test_case.get(id, None) is not None:
             map_test_case[id]['path_lyric'] = item
     return map_test_case
+
+def zip_folder(input_folder_path, output_zip_path):
+    shutil.make_archive(output_zip_path, 'zip', input_folder_path)
 
 if __name__ == "__main__":
     # print(itn_text('world....'))

@@ -13,7 +13,7 @@ use_gpu = True
 if use_gpu:
     if not torch.cuda.is_available():
         use_gpu = False
-model_path = './saved_models/finetuned'
+model_path = 'nguyenvulebinh/lyric-alignment'
 model = None
 tokenizer = None
 feature_extractor = None

@@ -51,7 +51,6 @@ class DataCollatorCTCWithPadding:
         
         for segment in batch_segment:
             text_raw = ' '.join([item[0] for item in segment])
-            # text_norm = norm_text_segment(text_raw)
             start_time = segment[0][1][0]
             end_time = segment[-1][1][1]
             
@@ -61,7 +60,6 @@ class DataCollatorCTCWithPadding:
             
             batch_audio.append(audio[start_time*16:end_time*16])
             batch_label.append(text_raw)
-            # batch_label.append(' '.join([item[1] for item in text_norm]))
         
         return batch_audio, batch_label
 
@@ -109,20 +107,7 @@ class DataCollatorCTCWithPadding:
         labels_batch = self.processor.tokenizer.pad(label_features, return_tensors="pt")
         # replace padding with -100 to ignore loss correctly
         labels = labels_batch["input_ids"].masked_fill(labels_batch.attention_mask.ne(1), -100)
-        
-        # with self.processor.as_target_processor():
-        #     label_features = [{"input_ids": self.processor(item).input_ids} for item in batch_label]
-        #     labels_batch = self.processor.pad(
-        #         label_features,
-        #         padding=self.padding,
-        #         max_length=self.max_length_labels,
-        #         pad_to_multiple_of=self.pad_to_multiple_of_labels,
-        #         return_tensors="pt",
-        #     )
 
-        # # replace padding with -100 to ignore loss correctly
-        # labels = labels_batch["input_ids"].masked_fill(labels_batch.attention_mask.ne(1), -100)
-        
         batch["labels"] = labels
 
         return batch

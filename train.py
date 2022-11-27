@@ -7,7 +7,7 @@ from model_handling import Wav2Vec2ForCTC
 from data_handling import DataCollatorCTCWithPadding
 from transformers import TrainingArguments
 from transformers import Trainer
-from datasets import load_metric, load_from_disk
+from datasets import load_metric, load_from_disk, load_dataset
 import numpy as np
 
 wer_metric = load_metric("wer")
@@ -43,7 +43,7 @@ if __name__ == "__main__":
     
     data_collator = DataCollatorCTCWithPadding(processor=processor, padding=True)
     
-    all_dataset = load_from_disk(pretrain_data_path)
+    all_dataset = load_dataset(pretrain_data_path)
     splits = all_dataset.train_test_split(test_size=5000, seed=101, shuffle=True)
     train_dataset = splits['train']
     eval_dataset = splits['test']
