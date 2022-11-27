@@ -38,15 +38,15 @@ def itn_text(word):
     word = word.lower().strip(' -.?!,)("\'…“”*_[]’')
     word = re.sub(r'[ {}]'.format(re.escape('-.?!,)("\'…“”*_[]’')), ' ', word)
     word = re.sub(r'\s+', ' ', word)
-    # if 'ku' in word:
-    #     print(word)
     if reoov.check_oov_word(word) or reoov.format_word(word) not in reoov.vi_dict or augment.get_random_oov(word) is not None or exeption_oov.get(word, None) is not None:
         if exeption_oov.get(word, None) is not None:
             return exeption_oov[word]
         read_form = augment.get_random_oov(word)
         if read_form is not None:
-            read_form = read_form[1]
-            return read_form
+            tgt = augment.oov_dict[word]
+            tgt.sort()
+            tgt = tgt[0]
+            return tgt
         if len(set(list(word)).intersection(set(list('0123456789')))) > 0:
             read_form = TTSnorm(word).lower().strip('. ')
             return read_form

@@ -8,6 +8,7 @@ from tqdm import tqdm
 import torchaudio
 import json
 import time
+import csv
     
 use_gpu = True
 if use_gpu:
@@ -18,8 +19,6 @@ model = None
 tokenizer = None
 feature_extractor = None
 vocab = None
-
-
 
 def load_model():
     global model
@@ -128,11 +127,12 @@ def handle_sample(wav, lyric_alignment_json):
             segment_info['s'] = segment_info['l'][0]['s']
             segment_info['e'] = segment_info['l'][-1]['e']
         
-    # print(json.dumps(lyric_alignment_json, indent=4, ensure_ascii=False))
     return lyric_alignment_json
     
 
 def main(data_path, output_path):
+    if not os.path.exists(os.path.join(output_path, 'json')):
+        os.makedirs(os.path.join(output_path, 'json'))
     load_model()
     all_test_case = utils.load_test_case(data_path)
     all_predicted_time = []
@@ -146,11 +146,11 @@ def main(data_path, output_path):
             raw_lyric_alignment = json.load(file)
         try:
             lyric_alignment_json = handle_sample(wav, raw_lyric_alignment)
-            with open(os.path.join(output_path, "{}.json".format(sid)), 'w', encoding='utf-8') as file:
+            with open(os.path.join(output_path, 'json', "{}.json".format(sid)), 'w', encoding='utf-8') as file:
                 json.dump(lyric_alignment_json, file, indent=4, ensure_ascii=False)
         except:
             print("File error ", sid)
-            with open(os.path.join(output_path, "{}.json".format(sid)), 'w', encoding='utf-8') as file:
+            with open(os.path.join(output_path, 'json', "{}.json".format(sid)), 'w', encoding='utf-8') as file:
                 json.dump(raw_lyric_alignment, file, indent=4, ensure_ascii=False)
         t2 = time.time()
         
@@ -159,9 +159,15 @@ def main(data_path, output_path):
         
         all_predicted_time.append((sid+".json", predicted_time))
         # break
-        
+    
+    # Make submission.zip file
+    utils.zip_folder(os.path.join(output_path, 'json'), os.path.join(output_path, 'submission'))
     # time_submission.csv
-    # write_time_file(all_predicted_time)
+    with open(os.path.join(output_path, 'time_submission.csv'), 'w') as file:
+        writer = csv.writer(file)
+        writer.writerow(('fname', 'time'))
+        for item in all_predicted_time:
+            writer.writerow(item)
     print("Audio time / Process time = {:.2f}".format(total_audio_time/total_predicted_time))
     
 if __name__ == "__main__":

@@ -102,7 +102,7 @@ The performance WER of our model after training is as below:
 
 ### Alignment process
 
-The alignment process has already been described in the methodology section. However, to achive our result on the public leaderboard $IoU = 0.63199$, we need some addition steps. The detail is as follow:
+The alignment process has already been described in the methodology section. However, to achive our result on the public leaderboard $IoU = 0.632$, we need some addition steps. The detail is as follow:
 
 1. The input will be format and convert to spoken form. Example the raw input:
     
@@ -192,10 +192,9 @@ The alignment process has already been described in the methodology section. How
     3000 ['ba: 2805 -> 3066', 'nghìn: 3046 -> 7274']
     ```
 
-The final alignment result when drawing together with waveform looks like below:
+    The final alignment result when drawing together with waveform looks like below:
 
-![](./assets/align_with_wav.png)
-
+    ![](./assets/align_with_wav.png)
 
 ## Usage
 
