@@ -153,7 +153,7 @@ def merge_words(segments, separator="|"):
     return words
 
 
-def add_pad(word_segments, emission, shift_val=6, small_seg_val=7, shift_small_seg=2):
+def add_pad(word_segments, emission, shift_val=1):
     for i in range(len(word_segments) - 1):
         word = word_segments[i]
         next_word = word_segments[i + 1]
@@ -162,20 +162,14 @@ def add_pad(word_segments, emission, shift_val=6, small_seg_val=7, shift_small_s
             word.end = word.start + 150
         else:
             word.end = next_word.start
-        # next_word.start -= 1
+        next_word.start -= shift_val
         
-        if word.end - word.start <= 70:
-            # word.end += shift_small_seg
-            word.start -= 1
-            word.end += 1
-        elif word.end - word.start < 7:
-            word.start -= 2
-            word.end += 2
-                
-        
-        # if word.end - word.start < small_seg_val:
-        #     word.end += shift_small_seg
-        #     word.start -= shift_small_seg
+#         if word.end - word.start <= 70:
+#             word.start -= 1
+#             word.end += 1
+#         elif word.end - word.start < 7:
+#             word.start -= 2
+#             word.end += 2
         
     word = word_segments[-1]
     word_segments[-1].end = min(len(emission), word_segments[-1].end + 200)
